@@ -1,0 +1,19 @@
+/**
+ * Layout: Main
+ *
+ * This is centering all text horizontally and vertically on the screen.
+ */
+
+main {
+  height: 100vh;
+  position: relative;
+
+  .center {
+    margin: 0;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 100%;
+  }
+}

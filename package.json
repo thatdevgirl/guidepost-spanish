@@ -1,0 +1,27 @@
+{
+  "name": "website-base",
+  "version": "4.0.0",
+  "description": "Basic setup for static websites",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joni Halabi",
+  "devDependencies": {
+    "@babel/core": "7.12.*",
+    "@babel/preset-env": "7.12.*",
+    "babel-preset-minify": "0.5.*",
+    "babelify": "10.0.*",
+    "browserify": "17.0.*",
+    "gulp": "4.0.*",
+    "gulp-babel": "8.0.*",
+    "gulp-clean-css": "4.3.*",
+    "gulp-concat": "2.6.*",
+    "gulp-rename": "2.0.*",
+    "gulp-sass": "4.1.*",
+    "gulp-uglify": "3.0.*",
+    "vinyl-buffer": "1.0.*",
+    "vinyl-source-stream": "2.0.*",
+    "jquery": "3.5.*"
+  }
+}

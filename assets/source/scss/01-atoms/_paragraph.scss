@@ -1,0 +1,13 @@
+/**
+ * Atom: Paragraph
+ */
+
+p {
+  font-size: 0.9rem;
+  line-height: 1.6;
+
+  // Variation: Vocabulary word
+  &#vocabulary-word {
+    font-size: 3.9rem;
+  }
+}
