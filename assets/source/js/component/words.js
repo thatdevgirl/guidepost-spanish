@@ -81,7 +81,8 @@ const Words = ( () => {
      * Swipe event : A new word is randomly chosen.
      */
     var hammertime = new Hammer( document );
-    hammertime.on( 'swipe', () => { currentWord = getNextWord(); } );
+    hammertime.get('pan').set({ direction: Hammer.DIRECTION_ALL });
+    hammertime.on( 'panleft panright panup pandown', () => { currentWord = getNextWord(); } );
 
 
     // Run this puppy!
