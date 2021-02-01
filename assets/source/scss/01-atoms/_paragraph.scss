@@ -3,11 +3,19 @@
  */
 
 p {
+  font-family: $sans;
   font-size: 0.9rem;
-  line-height: 1.6;
+  line-height: 1.5;
 
   // Variation: Vocabulary word
   &#vocabulary-word {
+    font-family: $serif;
     font-size: 3.9rem;
+    line-height: 1.2;
+    padding: 2rem;
+  }
+
+  &[lang=en] {
+    color: $brick-red;
   }
 }

@@ -1,0 +1,11 @@
+/**
+ * Base: Font definitions
+ */
+
+@font-face {
+  font-family: 'ZillaSlab';
+  src: url( '../../fonts/ZillaSlab-Regular.ttf' ) format( 'truetype' );
+}
+
+$sans: 'Trebuchet MS', 'Helvetica', sans-serif;
+$serif: 'ZillaSlab', serif;
