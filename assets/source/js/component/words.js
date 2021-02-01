@@ -80,7 +80,7 @@ const Words = ( () => {
     /**
      * Double tap event : A new word is randomly chosen.
      */
-    $( '*' ).on( 'swipeleft swiperight swipeup swipedown', () => { currentWord = getNextWord(); } );
+    $( '*' ).on( 'touchmove', () => { currentWord = getNextWord(); } );
 
 
     // Run this puppy!

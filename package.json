@@ -22,7 +22,6 @@
     "gulp-uglify": "3.0.*",
     "vinyl-buffer": "1.0.*",
     "vinyl-source-stream": "2.0.*",
-    "jquery": "3.5.*",
-    "tocca": "2.0.*"
+    "jquery": "3.5.*"
   }
 }
