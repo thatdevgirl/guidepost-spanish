@@ -6,30 +6,6 @@
 
 const Words = ( () => {
 
-  // Author:  Jacek Becela
-  // Source:  http://gist.github.com/399624
-  // License: MIT
-  // From: https://stackoverflow.com/questions/5497073/how-to-differentiate-single-click-event-and-double-click-event
-  jQuery.fn.single_double_click = function(single_click_callback, double_click_callback, timeout) {
-    return this.each(function(){
-      var clicks = 0, self = this;
-      $( this ).click(function(event){
-        clicks++;
-        if (clicks == 1) {
-          setTimeout(function(){
-            if(clicks == 1) {
-              single_click_callback.call(self, event);
-            } else {
-              double_click_callback.call(self, event);
-            }
-            clicks = 0;
-          }, timeout || 200);
-        }
-      });
-    });
-  }
-
-
   // Make a call to get our list of vocabulary words from the local JSON file.
   $.getJSON( '/data/words.json', ( data ) => {
 
@@ -90,28 +66,21 @@ const Words = ( () => {
      * When the user presses the return key, a new word is randomly chosen.
      */
     $( document ).keypress( (e) => {
-      // Space bar: Toggle the word language.
-      if ( e.which == 32 ) {
-        toggle( currentWord );
-      }
-
-      // Return: Switch to a new word.
-      if ( e.which == 13 ) {
-        currentWord = getNextWord();
-      }
+      if ( e.which == 32 ) { toggle( currentWord ); }       // Space bar.
+      if ( e.which == 13 ) { currentWord = getNextWord(); } // Return key.
     } );
 
 
     /**
-     * Click events.
+     * Single click event: Language toggles between Spanish and English.
      */
-    $( document ).single_double_click( () => {
-      // Single click: Language toggles between Spanish and English.
-      toggle( currentWord );
-    }, () => {
-      // Double click: A new word is randomly chosen.
-      currentWord = getNextWord();
-    } );
+    $( document ).click( () => { toggle( currentWord ); } );
+
+
+    /**
+     * Double tap event : A new word is randomly chosen.
+     */
+    $( document ).on( 'swipeleft swiperight swipeup swipedown', () => { currentWord = getNextWord(); } );
 
 
     // Run this puppy!
