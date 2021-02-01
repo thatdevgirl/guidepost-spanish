@@ -80,7 +80,8 @@ const Words = ( () => {
     /**
      * Swipe event : A new word is randomly chosen.
      */
-    $( document ).on( 'swipe', () => { currentWord = getNextWord(); } );
+    var hammertime = new Hammer( document );
+    hammertime.on( 'swipe', () => { currentWord = getNextWord(); } );
 
 
     // Run this puppy!
