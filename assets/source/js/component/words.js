@@ -82,7 +82,7 @@ const Words = ( () => {
      */
     var hammertime = new Hammer( document );
     hammertime.get( 'pan' ).set({ direction: Hammer.DIRECTION_ALL, threshold: 50 });
-    hammertime.on( 'end', () => { currentWord = getNextWord(); } );
+    hammertime.on( 'panend', () => { currentWord = getNextWord(); } );
 
 
     // Run this puppy!
