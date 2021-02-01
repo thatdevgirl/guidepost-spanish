@@ -80,7 +80,7 @@ const Words = ( () => {
     /**
      * Double tap event : A new word is randomly chosen.
      */
-    $( document ).on( 'swipeleft swiperight swipeup swipedown', () => { currentWord = getNextWord(); } );
+    $( document ).on( 'swipeleft swiperight swipeup swipedown', (e) => { currentWord = getNextWord(); } );
 
 
     // Run this puppy!

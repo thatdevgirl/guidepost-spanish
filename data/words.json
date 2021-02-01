@@ -33,5 +33,170 @@
     "es": "patrulla",
     "en": "police car",
     "most_recent": 0
+  },
+  {
+    "es": "zapatos",
+    "en": "shoes",
+    "most_recent": 0
+  },
+  {
+    "es": "No gracias",
+    "en": "No thank you",
+    "most_recent": 0
+  },
+  {
+    "es": "Si por favor",
+    "en": "Yes please",
+    "most_recent": 0
+  },
+  {
+    "es": "Ayuda por favor",
+    "en": "Help please",
+    "most_recent": 0
+  },
+  {
+    "es": "Sientate por favor",
+    "en": "Sit down please",
+    "most_recent": 0
+  },
+  {
+    "es": "Lavate las Manos",
+    "en": "Wash your hands",
+    "most_recent": 0
+  },
+  {
+    "es": "dame cinco",
+    "en": "high five",
+    "most_recent": 0
+  },
+  {
+    "es": "pegamento",
+    "en": "glue",
+    "most_recent": 0
+  },
+  {
+    "es": "brocha",
+    "en": "brush",
+    "most_recent": 0
+  },
+  {
+    "es": "figuras",
+    "en": "shapes",
+    "most_recent": 0
+  },
+  {
+    "es": "papel",
+    "en": "paper",
+    "most_recent": 0
+  },
+  {
+    "es": "Es hora de limpiar y guardar nuestro material.",
+    "en": " Is time to clean up and put away the material.",
+    "most_recent": 0
+  },
+  {
+    "es": "juguetes",
+    "en": "toys",
+    "most_recent": 0
+  },
+  {
+    "es": "jirafa",
+    "en": "giraffe",
+    "most_recent": 0
+  },
+  {
+    "es": "oso",
+    "en": "bear",
+    "most_recent": 0
+  },
+  {
+    "es": "leon",
+    "en": "lion",
+    "most_recent": 0
+  },
+  {
+    "es": "tigre",
+    "en": "tiger",
+    "most_recent": 0
+  },
+  {
+    "es": "elefante",
+    "en": "elephant",
+    "most_recent": 0
+  },
+  {
+    "es": "zebra",
+    "en": "zebra",
+    "most_recent": 0
+  },
+  {
+    "es": "platano",
+    "en": "banana",
+    "most_recent": 0
+  },
+  {
+    "es": "frijoles verdes",
+    "en": "green beans",
+    "most_recent": 0
+  },
+  {
+    "es": "Feliz Viernes",
+    "en": "Happy Friday",
+    "most_recent": 1
+  },
+  {
+    "es": "Puedes aplaudir 7 veces?",
+    "en": "Can you clap 7 times?",
+    "most_recent": 1
+  },
+  {
+    "es": "Cuantos vasos hay en la mesa?",
+    "en": "How many cups are on the table?",
+    "most_recent": 1
+  },
+  {
+    "es": "Cuantos dedos de las manos/pies tienes?",
+    "en": "How many fingers/toes do you have?",
+    "most_recent": 1
+  },
+  {
+    "es": "Puedes contar hasta diez?",
+    "en": "Can you count to ten?",
+    "most_recent": 1
+  },
+  {
+    "es": "flores",
+    "en": "flowers",
+    "most_recent": 1
+  },
+  {
+    "es": "florero",
+    "en": "vase",
+    "most_recent": 1
+  },
+  {
+    "es": "jarra",
+    "en": "a pitcher",
+    "most_recent": 1
+  },
+  {
+    "es": "agua",
+    "en": "water",
+    "most_recent": 1
+  },
+  {
+    "es": "mandil",
+    "en": "apron",
+    "most_recent": 1
+  },
+  {
+    "es": "mandarina",
+    "en": "tangerine",
+    "most_recent": 1
+  },
+  {
+    "es": "zanahorias",
+    "en": "carrots",
+    "most_recent": 1
   }
 ]
