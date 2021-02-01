@@ -74,13 +74,13 @@ const Words = ( () => {
     /**
      * Single click event: Language toggles between Spanish and English.
      */
-    $( document ).click( () => { toggle( currentWord ); } );
+    $( document ).on( 'tap', () => { toggle( currentWord ); } );
 
 
     /**
      * Double tap event : A new word is randomly chosen.
      */
-    $( document ).on( 'swipeleft swiperight swipeup swipedown', (e) => { currentWord = getNextWord(); } );
+    $( '*' ).on( 'swipeleft swiperight swipeup swipedown', () => { currentWord = getNextWord(); } );
 
 
     // Run this puppy!
