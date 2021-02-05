@@ -60,7 +60,7 @@
     "most_recent": 0
   },
   {
-    "es": "Lavate las Manos",
+    "es": "Lavate las manos",
     "en": "Wash your hands",
     "most_recent": 0
   },
@@ -142,61 +142,96 @@
   {
     "es": "Feliz Viernes",
     "en": "Happy Friday",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "Puedes aplaudir 7 veces?",
     "en": "Can you clap 7 times?",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "Cuantos vasos hay en la mesa?",
     "en": "How many cups are on the table?",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "Cuantos dedos de las manos/pies tienes?",
     "en": "How many fingers/toes do you have?",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "Puedes contar hasta diez?",
     "en": "Can you count to ten?",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "flores",
     "en": "flowers",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "florero",
     "en": "vase",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "jarra",
     "en": "a pitcher",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "agua",
     "en": "water",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "mandil",
     "en": "apron",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "mandarina",
     "en": "tangerine",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "zanahorias",
     "en": "carrots",
+    "most_recent": 0
+  },
+  {
+    "es": "cuadrado",
+    "en": "square",
+    "most_recent": 1
+  },
+  {
+    "es": "circulo",
+    "en": "circle",
+    "most_recent": 1
+  },
+  {
+    "es": "triangulo",
+    "en": "triangle",
+    "most_recent": 1
+  },
+  {
+    "es": "ovalo",
+    "en": "oval",
+    "most_recent": 1
+  },
+  {
+    "es": "rectangulo",
+    "en": "rectangle",
+    "most_recent": 1
+  },
+  {
+    "es": "Que es un cuadrado en tu habitacion/casa?",
+    "en": "What is a square in your room/house?",
+    "most_recent": 1
+  },
+  {
+    "es": "Que forma es una galleta?",
+    "en": "What shape is a cookie?",
     "most_recent": 1
   }
 ]
