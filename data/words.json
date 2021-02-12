@@ -176,7 +176,7 @@
   },
   {
     "es": "jarra",
-    "en": "a pitcher",
+    "en": "pitcher",
     "most_recent": 0
   },
   {
@@ -202,36 +202,106 @@
   {
     "es": "cuadrado",
     "en": "square",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "circulo",
     "en": "circle",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "triangulo",
     "en": "triangle",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "ovalo",
     "en": "oval",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "rectangulo",
     "en": "rectangle",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "Que es un cuadrado en tu habitacion/casa?",
     "en": "What is a square in your room/house?",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "Que forma es una galleta?",
     "en": "What shape is a cookie?",
+    "most_recent": 0
+  },
+  {
+    "es": "manos",
+    "en": "hands",
+    "most_recent": 1
+  },
+  {
+    "es": "sucia",
+    "en": "dirty",
+    "most_recent": 1
+  },
+  {
+    "es": "lavar",
+    "en": "wash",
+    "most_recent": 1
+  },
+  {
+    "es": "Mesa para lavarse las manos",
+    "en": "Handwashing table",
+    "most_recent": 1
+  },
+  {
+    "es": "delantal",
+    "en": "apron",
+    "most_recent": 1
+  },
+  {
+    "es": "cuenca",
+    "en": "basin",
+    "most_recent": 1
+  },
+  {
+    "es": "el grifo / la llave",
+    "en": "faucet",
+    "most_recent": 1
+  },
+  {
+    "es": "jabon",
+    "en": "soap",
+    "most_recent": 1
+  },
+  {
+    "es": "cepillo para las unas",
+    "en": "nail brush",
+    "most_recent": 1
+  },
+  {
+    "es": "enjuagar",
+    "en": "rinse",
+    "most_recent": 1
+  },
+  {
+    "es": "secar",
+    "en": "dry",
+    "most_recent": 1
+  },
+  {
+    "es": "Vamos a labarnos las manos.",
+    "en": "Let's wash our hands.",
+    "most_recent": 1
+  },
+  {
+    "es": "Secate las manos.",
+    "en": "Dry your hands.",
+    "most_recent": 1
+  },
+  {
+    "es": "Vamos comer.",
+    "en": "Let's go eat.",
     "most_recent": 1
   }
 ]
