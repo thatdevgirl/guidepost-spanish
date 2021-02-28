@@ -237,71 +237,101 @@
   {
     "es": "manos",
     "en": "hands",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "sucia",
     "en": "dirty",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "lavar",
     "en": "wash",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "Mesa para lavarse las manos",
     "en": "Handwashing table",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "delantal",
     "en": "apron",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "cuenca",
     "en": "basin",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "el grifo / la llave",
     "en": "faucet",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "jabon",
     "en": "soap",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "cepillo para las unas",
     "en": "nail brush",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "enjuagar",
     "en": "rinse",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "secar",
     "en": "dry",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "Vamos a labarnos las manos.",
     "en": "Let's wash our hands.",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "Secate las manos.",
     "en": "Dry your hands.",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "Vamos comer.",
     "en": "Let's go eat.",
+    "most_recent": 0
+  },
+  {
+    "es": "Cambiate los zapatos.",
+    "en": "Change your shoes.",
+    "most_recent": 1
+  },
+  {
+    "es": "Llevalo a la mesa.",
+    "en": "Take it to the table.",
+    "most_recent": 1
+  },
+  {
+    "es": "Vamos a limpiar.",
+    "en": "We are going to clean up.",
+    "most_recent": 1
+  },
+  {
+    "es": "Ponlo en su lugar.",
+    "en": "Put it where it goes.",
+    "most_recent": 1
+  },
+  {
+    "es": "Frambuesas",
+    "en": "Raspberries",
+    "most_recent": 1
+  },
+  {
+    "es": "Pepino",
+    "en": "Cucumbers",
     "most_recent": 1
   }
 ]
