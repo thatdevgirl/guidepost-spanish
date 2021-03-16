@@ -337,6 +337,146 @@
   {
     "es": "caliente",
     "en": "hot",
+    "most_recent": 0
+  },
+  {
+    "es": "frio",
+    "en": "cold",
+    "most_recent": 0
+  },
+  {
+    "es": "tibio",
+    "en": "warmer",
+    "most_recent": 0
+  },
+  {
+    "es": "espejo",
+    "en": "mirror",
+    "most_recent": 0
+  },
+  {
+    "es": "esponja",
+    "en": "sponge",
+    "most_recent": 0
+  },
+  {
+    "es": "tazon",
+    "en": "bowl",
+    "most_recent": 0
+  },
+  {
+    "es": "guante de dedo",
+    "en": "finger mitten",
+    "most_recent": 0
+  },
+  {
+    "es": "papel",
+    "en": "paper",
+    "most_recent": 0
+  },
+  {
+    "es": "pulidor",
+    "en": "polish",
+    "most_recent": 0
+  },
+  {
+    "es": "cepillo",
+    "en": "brush",
+    "most_recent": 0
+  },
+  {
+    "es": "cabello",
+    "en": "hair",
+    "most_recent": 0
+  },
+  {
+    "es": "ballena",
+    "en": "whale",
+    "most_recent": 0
+  },
+  {
+    "es": "delfin",
+    "en": "dolphin",
+    "most_recent": 0
+  },
+  {
+    "es": "tiburon",
+    "en": "shark",
+    "most_recent": 0
+  },
+  {
+    "es": "pez",
+    "en": "fish",
+    "most_recent": 0
+  },
+  {
+    "es": "langosta",
+    "en": "lobster",
+    "most_recent": 0
+  },
+  {
+    "es": "Quieres cepillarte el cabello?",
+    "en": "Do you want to brush your hair?",
+    "most_recent": 0
+  },
+  {
+    "es": "Vamos a contar juntos.",
+    "en": "Let's count together.",
+    "most_recent": 0
+  },
+  {
+    "es": "Es hora de dormir.",
+    "en": "It is time to sleep.",
+    "most_recent": 0
+  },
+  {
+    "es": "pipian",
+    "en": "zucchini",
+    "most_recent": 0
+  },
+  {
+    "es": "piña",
+    "en": "pineapple",
+    "most_recent": 0
+  },
+  {
+    "es": "cosina",
+    "en": "kitchen",
+    "most_recent": 1
+  },
+  {
+    "es": "seguro / segura",
+    "en": "safe",
+    "most_recent": 1
+  },
+  {
+    "es": "batidor",
+    "en": "whisk",
+    "most_recent": 1
+  },
+  {
+    "es": "cuchara",
+    "en": "spoon",
+    "most_recent": 1
+  },
+  {
+    "es": "cucharon",
+    "en": "ladle",
+    "most_recent": 1
+  },
+  {
+    "es": "pinzas",
+    "en": "tweezers",
+    "most_recent": 1
+  },
+  {
+    "es": "cabla de cortar",
+    "en": "cutting board",
+    "most_recent": 1
+  },
+  {
+    "es": "caliente",
+    "en": "hot",
     "most_recent": 1
   },
   {
@@ -345,98 +485,18 @@
     "most_recent": 1
   },
   {
-    "es": "tibio",
-    "en": "warmer",
+    "es": "No tocar.",
+    "en": "Do not touch.",
     "most_recent": 1
   },
   {
-    "es": "espejo",
-    "en": "mirror",
+    "es": "hielo",
+    "en": "ice",
     "most_recent": 1
   },
   {
-    "es": "esponja",
-    "en": "sponge",
-    "most_recent": 1
-  },
-  {
-    "es": "tazon",
-    "en": "bowl",
-    "most_recent": 1
-  },
-  {
-    "es": "guante de dedo",
-    "en": "finger mitten",
-    "most_recent": 1
-  },
-  {
-    "es": "papel",
-    "en": "paper",
-    "most_recent": 1
-  },
-  {
-    "es": "pulidor",
-    "en": "polish",
-    "most_recent": 1
-  },
-  {
-    "es": "cepillo",
-    "en": "brush",
-    "most_recent": 1
-  },
-  {
-    "es": "cabello",
-    "en": "hair",
-    "most_recent": 1
-  },
-  {
-    "es": "ballena",
-    "en": "whale",
-    "most_recent": 1
-  },
-  {
-    "es": "delfin",
-    "en": "dolphin",
-    "most_recent": 1
-  },
-  {
-    "es": "tiburon",
-    "en": "shark",
-    "most_recent": 1
-  },
-  {
-    "es": "pez",
-    "en": "fish",
-    "most_recent": 1
-  },
-  {
-    "es": "langosta",
-    "en": "lobster",
-    "most_recent": 1
-  },
-  {
-    "es": "Quieres cepillarte el cabello?",
-    "en": "Do you want to brush your hair?",
-    "most_recent": 1
-  },
-  {
-    "es": "Vamos a contar juntos.",
-    "en": "Let's count together.",
-    "most_recent": 1
-  },
-  {
-    "es": "Es hora de dormir.",
-    "en": "It is time to sleep.",
-    "most_recent": 1
-  },
-  {
-    "es": "pipian",
-    "en": "zucchini",
-    "most_recent": 1
-  },
-  {
-    "es": "piña",
-    "en": "pineapple",
+    "es": "De que temperatura de agua debemos tener cuidado?",
+    "en": "What temperature of water do we need to be careful of?",
     "most_recent": 1
   }
 ]
