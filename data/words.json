@@ -442,61 +442,101 @@
   {
     "es": "cosina",
     "en": "kitchen",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "seguro / segura",
     "en": "safe",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "batidor",
     "en": "whisk",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "cuchara",
     "en": "spoon",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "cucharon",
     "en": "ladle",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "pinzas",
     "en": "tweezers",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "cabla de cortar",
     "en": "cutting board",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "caliente",
     "en": "hot",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "frio",
     "en": "cold",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "No tocar.",
     "en": "Do not touch.",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "hielo",
     "en": "ice",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "De que temperatura de agua debemos tener cuidado?",
     "en": "What temperature of water do we need to be careful of?",
-    "most_recent": 1
+    "most_recent": 0
+  },
+  {
+    "es": "pajaros",
+    "en": "birds",
+    "most_recent": 0
+  },
+  {
+    "es": "arbol",
+    "en": "tree",
+    "most_recent": 0
+  },
+  {
+    "es": "cantar",
+    "en": "sing",
+    "most_recent": 0
+  },
+  {
+    "es": "flores",
+    "en": "flowers",
+    "most_recent": 0
+  },
+  {
+    "es": "crecer",
+    "en": "grow",
+    "most_recent": 0
+  },
+  {
+    "es": "Quien dio el arbol de cerezos a los Estados Unidos como regalo?",
+    "en": "Who gave cherry blossoms tree to the United States as a gift?",
+    "most_recent": 0
+  },
+  {
+    "es": "sandilla",
+    "en": "watermelon",
+    "most_recent": 0
+  },
+  {
+    "es": "repollo",
+    "en": "cabbage",
+    "most_recent": 0
   }
 ]
