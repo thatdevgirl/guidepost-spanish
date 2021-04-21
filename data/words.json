@@ -685,8 +685,88 @@
     "most_recent": 0
   },
   {
-    "es": "papas",
-    "en": "potato",
+    "es": "Cabeza, Hombros, Rodilla, y Pies",
+    "en": "Head, Shoulders, Knees, and Toes",
+    "most_recent": 0
+  },
+  {
+    "es": "Simon dice",
+    "en": "Simon says",
+    "most_recent": 0
+  },
+  {
+    "es": "Me gusta como soy",
+    "en": "I like myself",
+    "most_recent": 0
+  },
+  {
+    "es": "Si, me gusta",
+    "en": "Yes, I like it",
+    "most_recent": 0
+  },
+  {
+    "es": "Mi color favorito es...",
+    "en": "My favorite color is...",
+    "most_recent": 0
+  },
+  {
+    "es": "Mi fruta favorito es...",
+    "en": "My favorite fruit is...",
+    "most_recent": 0
+  },
+  {
+    "es": "manos",
+    "en": "hands",
+    "most_recent": 0
+  },
+  {
+    "es": "dedos",
+    "en": "fingers",
+    "most_recent": 0
+  },
+  {
+    "es": "cabella",
+    "en": "head",
+    "most_recent": 0
+  },
+  {
+    "es": "rodillas",
+    "en": "knees",
+    "most_recent": 0
+  },
+  {
+    "es": "ojos",
+    "en": "eyes",
+    "most_recent": 0
+  },
+  {
+    "es": "nariz",
+    "en": "nose",
+    "most_recent": 0
+  },
+  {
+    "es": "correr",
+    "en": "to run",
+    "most_recent": 0
+  },
+  {
+    "es": "bricar",
+    "en": "to jump",
+    "most_recent": 0
+  },
+  {
+    "es": "bailar",
+    "en": "to dance",
+    "most_recent": 0
+  },
+  {
+    "es": "manzana",
+    "en": "apple",
+    "most_recent": 0
+  },
+  {
+    "es": "broccoli",
+    "en": "broccoli",
     "most_recent": 0
   }
 ]
