@@ -522,7 +522,7 @@
   {
     "es": "crecer",
     "en": "grow",
-    "most_recent": 0
+    "most_recent": 1
   },
   {
     "es": "Quien dio el arbol de cerezos a los Estados Unidos como regalo?",
@@ -532,7 +532,7 @@
   {
     "es": "sandilla",
     "en": "watermelon",
-    "most_recent": 0
+    "most_recent": 1
   },
   {
     "es": "repollo",
@@ -552,7 +552,7 @@
   {
     "es": "hoja",
     "en": "leaf",
-    "most_recent": 0
+    "most_recent": 1
   },
   {
     "es": "soleado",
@@ -575,11 +575,6 @@
     "most_recent": 0
   },
   {
-    "es": "plantar",
-    "en": "to plant",
-    "most_recent": 0
-  },
-  {
     "es": "fresco",
     "en": "fresh",
     "most_recent": 0
@@ -597,11 +592,6 @@
   {
     "es": "dia y noche",
     "en": "day and night",
-    "most_recent": 0
-  },
-  {
-    "es": "sol",
-    "en": "sun",
     "most_recent": 0
   },
   {
@@ -780,18 +770,8 @@
     "most_recent": 0
   },
   {
-    "es": "agua",
-    "en": "water",
-    "most_recent": 0
-  },
-  {
     "es": "basura",
     "en": "trash",
-    "most_recent": 0
-  },
-  {
-    "es": "Tierra",
-    "en": "Earth",
     "most_recent": 0
   },
   {
@@ -820,11 +800,6 @@
     "most_recent": 0
   },
   {
-    "es": "cuidar",
-    "en": "to care for",
-    "most_recent": 0
-  },
-  {
     "es": "plantas",
     "en": "plants",
     "most_recent": 0
@@ -838,5 +813,145 @@
     "es": "naranga",
     "en": "oranges",
     "most_recent": 0
+  },
+  {
+    "es": "aire",
+    "en": "air",
+    "most_recent": 1
+  },
+  {
+    "es": "espacio",
+    "en": "space",
+    "most_recent": 1
+  },
+  {
+    "es": "cuidar",
+    "en": "to care for",
+    "most_recent": 1
+  },
+  {
+    "es": "plantar",
+    "en": "to plant",
+    "most_recent": 1
+  },
+  {
+    "es": "sol",
+    "en": "sun",
+    "most_recent": 1
+  },
+  {
+    "es": "tierra",
+    "en": "earth / soil",
+    "most_recent": 1
+  },
+  {
+    "es": "regar plantas",
+    "en": "water plants",
+    "most_recent": 1
+  },
+  {
+    "es": "semilla",
+    "en": "seeds",
+    "most_recent": 1
+  },
+  {
+    "es": "tallo",
+    "en": "stem",
+    "most_recent": 1
+  },
+  {
+    "es": "la raiz",
+    "en": "the root",
+    "most_recent": 1
+  },
+  {
+    "es": "el tronco",
+    "en": "the trunk",
+    "most_recent": 1
+  },
+  {
+    "es": "espinacas",
+    "en": "spinach",
+    "most_recent": 1
+  },
+  {
+    "es": "huevo",
+    "en": "egg",
+    "most_recent": 1
+  },
+  {
+    "es": "oruga",
+    "en": "caterpillar",
+    "most_recent": 1
+  },
+  {
+    "es": "mariposa",
+    "en": "butterfly",
+    "most_recent": 1
+  },
+  {
+    "es": "pupa",
+    "en": "chrysalis",
+    "most_recent": 1
+  },
+  {
+    "es": "hermosa",
+    "en": "beautiful",
+    "most_recent": 1
+  },
+  {
+    "es": "comida",
+    "en": "food",
+    "most_recent": 1
+  },
+  {
+    "es": "grande",
+    "en": "big",
+    "most_recent": 1
+  },
+  {
+    "es": "durmiendo",
+    "en": "sleep",
+    "most_recent": 1
+  },
+  {
+    "es": "pepinos",
+    "en": "cucumbers",
+    "most_recent": 1
+  },
+  {
+    "es": "imigrar",
+    "en": "migrate",
+    "most_recent": 1
+  },
+  {
+    "es": "habita",
+    "en": "habitat",
+    "most_recent": 1
+  },
+  {
+    "es": "volar",
+    "en": "to fly",
+    "most_recent": 1
+  },
+  {
+    "es": "juntas",
+    "en": "together",
+    "most_recent": 1
+  },
+  {
+    "es": "mariposa monarca",
+    "en": "monarch butterfly",
+    "most_recent": 1
+  },
+  {
+    "es": "arandanos",
+    "en": "blueberries",
+    "most_recent": 1
+  },
+  {
+    "es": "apio",
+    "en": "celery",
+    "most_recent": 1
   }
 ]
