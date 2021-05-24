@@ -1,0 +1,23 @@
+/**
+ * Atom: Button
+ */
+
+button {
+  border: 0;
+  border-radius: 0.1rem;
+  cursor: pointer;
+  padding: 0.25rem 0.75rem;
+
+  &:focus,
+  &:hover {
+    background-color: $sky-blue;
+  }
+
+
+  /**
+   * State: Selected button.
+   */
+  &.selected {
+    background-color: $sky-blue;
+  }
+}
