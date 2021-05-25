@@ -522,7 +522,7 @@
   {
     "es": "crecer",
     "en": "grow",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "Quien dio el arbol de cerezos a los Estados Unidos como regalo?",
@@ -532,7 +532,7 @@
   {
     "es": "sandilla",
     "en": "watermelon",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "repollo",
@@ -552,7 +552,7 @@
   {
     "es": "hoja",
     "en": "leaf",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "soleado",
@@ -817,141 +817,216 @@
   {
     "es": "aire",
     "en": "air",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "espacio",
     "en": "space",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "cuidar",
     "en": "to care for",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "plantar",
     "en": "to plant",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "sol",
     "en": "sun",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "tierra",
     "en": "earth / soil",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "regar plantas",
     "en": "water plants",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "semilla",
     "en": "seeds",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "tallo",
     "en": "stem",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "la raiz",
     "en": "the root",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "el tronco",
     "en": "the trunk",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "espinacas",
     "en": "spinach",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "huevo",
     "en": "egg",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "oruga",
     "en": "caterpillar",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "mariposa",
     "en": "butterfly",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "pupa",
     "en": "chrysalis",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "hermosa",
     "en": "beautiful",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "comida",
     "en": "food",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "grande",
     "en": "big",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "durmiendo",
     "en": "sleep",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "pepinos",
     "en": "cucumbers",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "imigrar",
     "en": "migrate",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "habita",
     "en": "habitat",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "volar",
     "en": "to fly",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "juntas",
     "en": "together",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "mariposa monarca",
     "en": "monarch butterfly",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "arandanos",
     "en": "blueberries",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "apio",
     "en": "celery",
+    "most_recent": 0
+  },
+  {
+    "es": "feliz",
+    "en": "happy",
+    "most_recent": 1
+  },
+  {
+    "es": "triste",
+    "en": "sad",
+    "most_recent": 1
+  },
+  {
+    "es": "enojado",
+    "en": "sad",
+    "most_recent": 1
+  },
+  {
+    "es": "preocupado",
+    "en": "worried",
+    "most_recent": 1
+  },
+  {
+    "es": "timido",
+    "en": "shy",
+    "most_recent": 1
+  },
+  {
+    "es": "sorprendido",
+    "en": "surprised",
+    "most_recent": 1
+  },
+  {
+    "es": "asustado",
+    "en": "scared",
+    "most_recent": 1
+  },
+  {
+    "es": "Como te sientes?",
+    "en": "How do you feel?",
+    "most_recent": 1
+  },
+  {
+    "es": "Te sientes cansado?",
+    "en": "Do you feel tired?",
+    "most_recent": 1
+  },
+  {
+    "es": "Estas feliz?",
+    "en": "Are you happy?",
+    "most_recent": 1
+  },
+  {
+    "es": "Puedes hace una cara feliz/triste?",
+    "en": "Can you make a happy/sad face?",
+    "most_recent": 1
+  },
+  {
+    "es": "Que haces cuando estas feliz?",
+    "en": "What do you do when you are happy?",
+    "most_recent": 1
+  },
+  {
+    "es": "Que haces cuando estas triste?",
+    "en": "What do you do when you are sad?",
+    "most_recent": 1
+  },
+  {
+    "es": "papaya",
+    "en": "papaya",
+    "most_recent": 1
+  },
+  {
+    "es": "calabacin",
+    "en": "zucchini",
     "most_recent": 1
   }
 ]
