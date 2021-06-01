@@ -1028,5 +1028,80 @@
     "es": "calabacin",
     "en": "zucchini",
     "most_recent": 1
+  },
+  {
+    "es": "vaca",
+    "en": "cow",
+    "most_recent": 1
+  },
+  {
+    "es": "caballo",
+    "en": "horse",
+    "most_recent": 1
+  },
+  {
+    "es": "cerdo",
+    "en": "pig",
+    "most_recent": 1
+  },
+  {
+    "es": "gallina",
+    "en": "hen",
+    "most_recent": 1
+  },
+  {
+    "es": "pollito",
+    "en": "chicks",
+    "most_recent": 1
+  },
+  {
+    "es": "oveja",
+    "en": "sheep",
+    "most_recent": 1
+  },
+  {
+    "es": "gallo",
+    "en": "rooster",
+    "most_recent": 1
+  },
+  {
+    "es": "pato",
+    "en": "duck",
+    "most_recent": 1
+  },
+  {
+    "es": "cabra",
+    "en": "goat",
+    "most_recent": 1
+  },
+  {
+    "es": "granja",
+    "en": "farm",
+    "most_recent": 1
+  },
+  {
+    "es": "perro",
+    "en": "dog",
+    "most_recent": 1
+  },
+  {
+    "es": "gato",
+    "en": "cat",
+    "most_recent": 1
+  },
+  {
+    "es": "animales",
+    "en": "animals",
+    "most_recent": 1
+  },
+  {
+    "es": "cereza",
+    "en": "cherry",
+    "most_recent": 1
+  },
+  {
+    "es": "apio",
+    "en": "celery",
+    "most_recent": 1
   }
 ]
