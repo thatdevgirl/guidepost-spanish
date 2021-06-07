@@ -877,7 +877,7 @@
   {
     "es": "huevo",
     "en": "egg",
-    "most_recent": 0
+    "most_recent": 1
   },
   {
     "es": "oruga",
@@ -1102,6 +1102,36 @@
   {
     "es": "apio",
     "en": "celery",
+    "most_recent": 1
+  },
+  {
+    "es": "lana",
+    "en": "wool",
+    "most_recent": 1
+  },
+  {
+    "es": "piel",
+    "en": "fur",
+    "most_recent": 1
+  },
+  {
+    "es": "De donde vienen los huevo y la leche?",
+    "en": "Where do eggs and milk come from?",
+    "most_recent": 1
+  },
+  {
+    "es": "De donde viene la lana?",
+    "en": "Where does wool come from?",
+    "most_recent": 1
+  },
+  {
+    "es": "sandia",
+    "en": "watermelon",
+    "most_recent": 1
+  },
+  {
+    "es": "pepinillos",
+    "en": "pickles",
     "most_recent": 1
   }
 ]
