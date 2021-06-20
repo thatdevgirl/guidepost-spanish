@@ -122,10 +122,7 @@ const Words = ( () => {
     /**
      * Swipe event : A new word is randomly chosen.
      */
-    var hammertime = new Hammer( document );
-    hammertime.get( 'pan' ).set({ direction: Hammer.DIRECTION_ALL, threshold: 20 });
-    hammertime.on( 'panend', () => { currentWord = getNextWord( currentWord, data ); } );
-
+    $( window ).on( 'swipe', () => { currentWord = getNextWord( currentWord, data ); } );
 
     // Run this puppy!
     let currentWord = getNextWord( 0, data );

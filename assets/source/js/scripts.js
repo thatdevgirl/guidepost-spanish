@@ -6,5 +6,4 @@
  * be built.
  */
 
-import SetJquery from './component/set-jquery';
 import Words from './component/words.js';
