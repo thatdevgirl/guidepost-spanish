@@ -1,0 +1,20 @@
+/**
+ * Layout: Body
+ */
+
+body {
+
+  // Page container from jQuery Mobile.
+  .ui-page {
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+    height: 100%;
+    overflow: hidden;
+  }
+
+  // Loader from jQuery Mobile.
+  .ui-loader {
+    display: none;
+  }
+
+}
