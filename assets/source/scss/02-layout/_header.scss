@@ -3,8 +3,16 @@
  */
 
 header {
+
   background-color: $black;
   color: $white;
   padding: 0 1rem;
   text-align: center;
+
+  .header-options {
+    display: inline-block;
+    font-size: 0.8rem;
+    margin: 0 1rem;
+  }
+
 }

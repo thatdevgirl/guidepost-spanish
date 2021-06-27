@@ -22,6 +22,12 @@ const Words = ( () => {
 
 
     /**
+     * Set the default starting language. This is changeable.
+     */
+    var defaultLang = 'es';
+
+
+    /**
      * getNextWord()
      *
      * Randomly get the next vocabulary word.
@@ -48,20 +54,16 @@ const Words = ( () => {
      */
     const toggle = ( word, swap=true, data ) => {
       // Default the language to Spanish.
-      let lang = 'es';
+      let lang = defaultLang;
 
       // Do we want to swap the language?
       if ( swap ) {
         // Get the current language of the main vocabulary area.
         lang = $( '#vocabulary-word' ).attr( 'lang' );
 
-        // Swap the language, because this function is called when we are swapping
-        // between EN and ES. If no language is set, we will auto-set it to ES.
-        if ( !lang || lang == 'en' ) {
-          lang = 'es';
-        } else {
-          lang = 'en';
-        }
+        // Swap the language, because this function is also  called when we
+        // are swapping between languages.
+        lang = ( !lang || lang == 'en' ) ? 'es' : 'en';
       }
 
       // Show the word in the correct language.
@@ -120,9 +122,28 @@ const Words = ( () => {
 
 
     /**
+     * Button click events: Toggle the defaults tart language.
+     */
+    $( 'button#default-es' ).click( () => {
+      $( '#default-es' ).addClass('selected');
+      $( '#default-en' ).removeClass('selected');
+      defaultLang = 'es';
+      toggle( currentWord, false, data );
+    } );
+
+    $( 'button#default-en' ).click( () => {
+      $( '#default-es' ).removeClass('selected');
+      $( '#default-en' ).addClass('selected');
+      defaultLang = 'en';
+      toggle( currentWord, false, data );
+    } );
+
+
+    /**
      * Swipe event : A new word is randomly chosen.
      */
     $( window ).on( 'swipe', () => { currentWord = getNextWord( currentWord, data ); } );
+
 
     // Run this puppy!
     let currentWord = getNextWord( 0, data );

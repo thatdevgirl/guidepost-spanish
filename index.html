@@ -19,8 +19,17 @@
 
   <body>
     <header>
-      <button id="recent-words" aria-label="Practice only recently added words">Recent Words</button>
-      <button id="all-words" class="selected" aria-label="Practice all words">All Words</button>
+      <div class="header-options">
+        <button id="all-words" class="selected word-set" aria-label="Practice all words">All Words</button>
+        or
+        <button id="recent-words" class="word-set" aria-label="Practice only recently added words">Recent</button>
+      </div>
+
+      <div class="header-options">
+        <button id="default-es" class="selected language" aria-label="Start with the Spanish word">ES</button>
+        or
+        <button id="default-en" class="language" aria-label="Start with the English word">EN</button>
+      </div>
     </header>
 
     <main>
