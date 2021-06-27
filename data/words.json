@@ -195,11 +195,6 @@
     "most_recent": 0
   },
   {
-    "es": "zanahorias",
-    "en": "carrots",
-    "most_recent": 0
-  },
-  {
     "es": "cuadrado",
     "en": "square",
     "most_recent": 0
@@ -331,7 +326,7 @@
   },
   {
     "es": "pepino",
-    "en": "cucumbers",
+    "en": "cucumber",
     "most_recent": 0
   },
   {
@@ -367,11 +362,6 @@
   {
     "es": "guante de dedo",
     "en": "finger mitten",
-    "most_recent": 0
-  },
-  {
-    "es": "papel",
-    "en": "paper",
     "most_recent": 0
   },
   {
@@ -475,16 +465,6 @@
     "most_recent": 0
   },
   {
-    "es": "caliente",
-    "en": "hot",
-    "most_recent": 0
-  },
-  {
-    "es": "frio",
-    "en": "cold",
-    "most_recent": 0
-  },
-  {
     "es": "No tocar.",
     "en": "Do not touch.",
     "most_recent": 0
@@ -500,11 +480,6 @@
     "most_recent": 0
   },
   {
-    "es": "pajaros",
-    "en": "birds",
-    "most_recent": 0
-  },
-  {
     "es": "arbol",
     "en": "tree",
     "most_recent": 0
@@ -512,11 +487,6 @@
   {
     "es": "cantar",
     "en": "sing",
-    "most_recent": 0
-  },
-  {
-    "es": "flores",
-    "en": "flowers",
     "most_recent": 0
   },
   {
@@ -670,11 +640,6 @@
     "most_recent": 0
   },
   {
-    "es": "banana",
-    "en": "banana",
-    "most_recent": 0
-  },
-  {
     "es": "Cabeza, Hombros, Rodilla, y Pies",
     "en": "Head, Shoulders, Knees, and Toes",
     "most_recent": 0
@@ -695,18 +660,8 @@
     "most_recent": 0
   },
   {
-    "es": "Mi color favorito es...",
-    "en": "My favorite color is...",
-    "most_recent": 0
-  },
-  {
     "es": "Mi fruta favorito es...",
     "en": "My favorite fruit is...",
-    "most_recent": 0
-  },
-  {
-    "es": "manos",
-    "en": "hands",
     "most_recent": 0
   },
   {
@@ -811,7 +766,7 @@
   },
   {
     "es": "naranga",
-    "en": "oranges",
+    "en": "orange",
     "most_recent": 0
   },
   {
@@ -877,11 +832,6 @@
   {
     "es": "huevo",
     "en": "egg",
-    "most_recent": 1
-  },
-  {
-    "es": "oruga",
-    "en": "caterpillar",
     "most_recent": 0
   },
   {
@@ -912,11 +862,6 @@
   {
     "es": "durmiendo",
     "en": "sleep",
-    "most_recent": 0
-  },
-  {
-    "es": "pepinos",
-    "en": "cucumbers",
     "most_recent": 0
   },
   {
@@ -957,181 +902,276 @@
   {
     "es": "feliz",
     "en": "happy",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "triste",
     "en": "sad",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "enojado",
-    "en": "sad",
-    "most_recent": 1
+    "en": "annoyed",
+    "most_recent": 0
   },
   {
     "es": "preocupado",
     "en": "worried",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "timido",
     "en": "shy",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "sorprendido",
     "en": "surprised",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "asustado",
     "en": "scared",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "Como te sientes?",
     "en": "How do you feel?",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "Te sientes cansado?",
     "en": "Do you feel tired?",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "Estas feliz?",
     "en": "Are you happy?",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "Puedes hace una cara feliz/triste?",
     "en": "Can you make a happy/sad face?",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "Que haces cuando estas feliz?",
     "en": "What do you do when you are happy?",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "Que haces cuando estas triste?",
     "en": "What do you do when you are sad?",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "papaya",
     "en": "papaya",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "calabacin",
     "en": "zucchini",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "vaca",
     "en": "cow",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "caballo",
     "en": "horse",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "cerdo",
     "en": "pig",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "gallina",
     "en": "hen",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "pollito",
     "en": "chicks",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "oveja",
     "en": "sheep",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "gallo",
     "en": "rooster",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "pato",
     "en": "duck",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "cabra",
     "en": "goat",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "granja",
     "en": "farm",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "perro",
     "en": "dog",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "gato",
     "en": "cat",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "animales",
     "en": "animals",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "cereza",
     "en": "cherry",
-    "most_recent": 1
-  },
-  {
-    "es": "apio",
-    "en": "celery",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "lana",
     "en": "wool",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "piel",
     "en": "fur",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "De donde vienen los huevo y la leche?",
     "en": "Where do eggs and milk come from?",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "De donde viene la lana?",
     "en": "Where does wool come from?",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "sandia",
     "en": "watermelon",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "pepinillos",
     "en": "pickles",
+    "most_recent": 0
+  },
+  {
+    "es": "leopardo",
+    "en": "cheetah",
+    "most_recent": 0
+  },
+  {
+    "es": "avestruz",
+    "en": "ostrich",
+    "most_recent": 0
+  },
+  {
+    "es": "gacela",
+    "en": "gazelle",
+    "most_recent": 0
+  },
+  {
+    "es": "hipopotamo",
+    "en": "hippo",
+    "most_recent": 0
+  },
+  {
+    "es": "rhinoceronte",
+    "en": "rhino",
+    "most_recent": 0
+  },
+  {
+    "es": "igual",
+    "en": "same",
+    "most_recent": 0
+  },
+  {
+    "es": "diferente",
+    "en": "different",
+    "most_recent": 0
+  },
+  {
+    "es": "carne",
+    "en": "meat",
+    "most_recent": 0
+  },
+  {
+    "es": "vivir",
+    "en": "live",
+    "most_recent": 0
+  },
+  {
+    "es": "pequeno",
+    "en": "small",
+    "most_recent": 0
+  },
+  {
+    "es": "Que comen los leones?",
+    "en": "What do lions eat?",
+    "most_recent": 0
+  },
+  {
+    "es": "abeja",
+    "en": "bee",
+    "most_recent": 1
+  },
+  {
+    "es": "mosco, mosca",
+    "en": "mosquito, fly",
+    "most_recent": 1
+  },
+  {
+    "es": "hormiga",
+    "en": "ant",
+    "most_recent": 1
+  },
+  {
+    "es": "escarabajo",
+    "en": "beetle",
+    "most_recent": 1
+  },
+  {
+    "es": "bicho, insecto",
+    "en": "bug",
+    "most_recent": 1
+  },
+  {
+    "es": "mariquita",
+    "en": "ladybug",
+    "most_recent": 1
+  },
+  {
+    "es": "oruga",
+    "en": "caterpillar",
+    "most_recent": 1
+  },
+  {
+    "es": "Cuantas patas tienen los insectos?",
+    "en": "How many legs do insects have?",
+    "most_recent": 1
+  },
+  {
+    "es": "Cual es tu insecto favorito?",
+    "en": "What is your favorite kind of insect?",
     "most_recent": 1
   }
 ]
