@@ -332,7 +332,7 @@
   {
     "es": "caliente",
     "en": "hot",
-    "most_recent": 0
+    "most_recent": 1
   },
   {
     "es": "frio",
@@ -567,7 +567,7 @@
   {
     "es": "estrella",
     "en": "star",
-    "most_recent": 0
+    "most_recent": 1
   },
   {
     "es": "luna",
@@ -792,7 +792,7 @@
   {
     "es": "sol",
     "en": "sun",
-    "most_recent": 0
+    "most_recent": 1
   },
   {
     "es": "tierra",
@@ -1172,6 +1172,66 @@
   {
     "es": "Cual es tu insecto favorito?",
     "en": "What is your favorite kind of insect?",
+    "most_recent": 1
+  },
+  {
+    "es": "verano",
+    "en": "summer",
+    "most_recent": 1
+  },
+  {
+    "es": "playo",
+    "en": "beach",
+    "most_recent": 1
+  },
+  {
+    "es": "helado",
+    "en": "ice cream",
+    "most_recent": 1
+  },
+  {
+    "es": "piscina",
+    "en": "pool",
+    "most_recent": 1
+  },
+  {
+    "es": "lentes de sol",
+    "en": "sunglasses",
+    "most_recent": 1
+  },
+  {
+    "es": "pelota",
+    "en": "ball",
+    "most_recent": 1
+  },
+  {
+    "es": "rayas",
+    "en": "stripes",
+    "most_recent": 1
+  },
+  {
+    "es": "estados",
+    "en": "states",
+    "most_recent": 1
+  },
+  {
+    "es": "pais",
+    "en": "country",
+    "most_recent": 1
+  },
+  {
+    "es": "Estados Unidos",
+    "en": "United States",
+    "most_recent": 1
+  },
+  {
+    "es": "Que temperature hay en el verano? Caliente o Frio?",
+    "en": "What is the weather like in the summer? Hot or Cold?",
+    "most_recent": 1
+  },
+  {
+    "es": "Que te gusta hacer en el verano?",
+    "en": "What do you like to do in the summer?",
     "most_recent": 1
   }
 ]
