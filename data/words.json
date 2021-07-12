@@ -1233,5 +1233,65 @@
     "es": "Que te gusta hacer en el verano?",
     "en": "What do you like to do in the summer?",
     "most_recent": 1
+  },
+  {
+    "es": "fútbol",
+    "en": "soccer",
+    "most_recent": 1
+  },
+  {
+    "es": "baloncesto",
+    "en": "basketball",
+    "most_recent": 1
+  },
+  {
+    "es": "béisbol",
+    "en": "baseball",
+    "most_recent": 1
+  },
+  {
+    "es": "hockey",
+    "en": "hockey",
+    "most_recent": 1
+  },
+  {
+    "es": "fútbol Americano",
+    "en": "football",
+    "most_recent": 1
+  },
+  {
+    "es": "pelotas",
+    "en": "ball",
+    "most_recent": 1
+  },
+  {
+    "es": "bate",
+    "en": "bat",
+    "most_recent": 1
+  },
+  {
+    "es": "red de futba",
+    "en": "soccer net",
+    "most_recent": 1
+  },
+  {
+    "es": "canasta",
+    "en": "basket",
+    "most_recent": 1
+  },
+  {
+    "es": "palo de hockey",
+    "en": "hockey stick",
+    "most_recent": 1
+  },
+  {
+    "es": "Cual es tu deporte favorito?",
+    "en": "What is your favorite sport?",
+    "most_recent": 1
+  },
+  {
+    "es": "De que color es la pelota de futbal?",
+    "en": "What color is the soccer ball?",
+    "most_recent": 1
   }
 ]
