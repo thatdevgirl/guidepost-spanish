@@ -387,22 +387,22 @@
   {
     "es": "delfin",
     "en": "dolphin",
-    "most_recent": 0
+    "most_recent": 1
   },
   {
     "es": "tiburon",
     "en": "shark",
-    "most_recent": 0
+    "most_recent": 1
   },
   {
     "es": "pez",
     "en": "fish",
-    "most_recent": 0
+    "most_recent": 1
   },
   {
     "es": "langosta",
     "en": "lobster",
-    "most_recent": 0
+    "most_recent": 1
   },
   {
     "es": "Quieres cepillarte el cabello?",
@@ -597,7 +597,7 @@
   {
     "es": "tortuga",
     "en": "turtle",
-    "most_recent": 0
+    "most_recent": 1
   },
   {
     "es": "Que haces cuando te despiertas?",
@@ -1292,6 +1292,41 @@
   {
     "es": "De que color es la pelota de futbal?",
     "en": "What color is the soccer ball?",
+    "most_recent": 1
+  },
+  {
+    "es": "oceano",
+    "en": "ocean",
+    "most_recent": 1
+  },
+  {
+    "es": "mar",
+    "en": "sea",
+    "most_recent": 1
+  },
+  {
+    "es": "cancrejo",
+    "en": "crab",
+    "most_recent": 1
+  },
+  {
+    "es": "caballito de mar",
+    "en": "sea horse",
+    "most_recent": 1
+  },
+  {
+    "es": "estrella de mar",
+    "en": "sea star",
+    "most_recent": 1
+  },
+  {
+    "es": "Que color es el cancrejo?",
+    "en": "What color is the crab?",
+    "most_recent": 1
+  },
+  {
+    "es": "Cual es tu animal de mar favorito?",
+    "en": "What is your favorite sea animal?",
     "most_recent": 1
   }
 ]
