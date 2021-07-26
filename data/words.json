@@ -332,7 +332,7 @@
   {
     "es": "caliente",
     "en": "hot",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "frio",
@@ -387,22 +387,22 @@
   {
     "es": "delfin",
     "en": "dolphin",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "tiburon",
     "en": "shark",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "pez",
     "en": "fish",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "langosta",
     "en": "lobster",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "Quieres cepillarte el cabello?",
@@ -567,7 +567,7 @@
   {
     "es": "estrella",
     "en": "star",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "luna",
@@ -597,7 +597,7 @@
   {
     "es": "tortuga",
     "en": "turtle",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "Que haces cuando te despiertas?",
@@ -792,7 +792,7 @@
   {
     "es": "sol",
     "en": "sun",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "tierra",
@@ -1132,201 +1132,246 @@
   {
     "es": "abeja",
     "en": "bee",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "mosco, mosca",
     "en": "mosquito, fly",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "hormiga",
     "en": "ant",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "escarabajo",
     "en": "beetle",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "bicho, insecto",
     "en": "bug",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "mariquita",
     "en": "ladybug",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "oruga",
     "en": "caterpillar",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "Cuantas patas tienen los insectos?",
     "en": "How many legs do insects have?",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "Cual es tu insecto favorito?",
     "en": "What is your favorite kind of insect?",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "verano",
     "en": "summer",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "playo",
     "en": "beach",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "helado",
     "en": "ice cream",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "piscina",
     "en": "pool",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "lentes de sol",
     "en": "sunglasses",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "pelota",
     "en": "ball",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "rayas",
     "en": "stripes",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "estados",
     "en": "states",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "pais",
     "en": "country",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "Estados Unidos",
     "en": "United States",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "Que temperature hay en el verano? Caliente o Frio?",
     "en": "What is the weather like in the summer? Hot or Cold?",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "Que te gusta hacer en el verano?",
     "en": "What do you like to do in the summer?",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "fútbol",
     "en": "soccer",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "baloncesto",
     "en": "basketball",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "béisbol",
     "en": "baseball",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "hockey",
     "en": "hockey",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "fútbol Americano",
     "en": "football",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "pelotas",
     "en": "ball",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "bate",
     "en": "bat",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "red de futba",
     "en": "soccer net",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "canasta",
     "en": "basket",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "palo de hockey",
     "en": "hockey stick",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "Cual es tu deporte favorito?",
     "en": "What is your favorite sport?",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "De que color es la pelota de futbal?",
     "en": "What color is the soccer ball?",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "oceano",
     "en": "ocean",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "mar",
     "en": "sea",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "cancrejo",
     "en": "crab",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "caballito de mar",
     "en": "sea horse",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "estrella de mar",
     "en": "sea star",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "Que color es el cancrejo?",
     "en": "What color is the crab?",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "Cual es tu animal de mar favorito?",
     "en": "What is your favorite sea animal?",
+    "most_recent": 0
+  },
+  {
+    "es": "bombero",
+    "en": "firefighter",
+    "most_recent": 1
+  },
+  {
+    "es": "doctor, doctora",
+    "en": "doctor",
+    "most_recent": 1
+  },
+  {
+    "es": "dentista",
+    "en": "dentist",
+    "most_recent": 1
+  },
+  {
+    "es": "policía",
+    "en": "police",
+    "most_recent": 1
+  },
+  {
+    "es": "enfermera",
+    "en": "nurse",
+    "most_recent": 1
+  },
+  {
+    "es": "collector de basura",
+    "en": "garbage collector",
+    "most_recent": 1
+  },
+  {
+    "es": "ayudantes de la comunidad",
+    "en": "community helpers",
+    "most_recent": 1
+  },
+  {
+    "es": "Que te gustaría ser de grande?",
+    "en": "What would you like to be when you grow up?",
+    "most_recent": 1
+  },
+  {
+    "es": "Que hacen los bomberos?",
+    "en": "What do firefighters do?",
     "most_recent": 1
   }
 ]
