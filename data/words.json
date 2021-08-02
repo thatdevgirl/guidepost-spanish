@@ -1373,5 +1373,60 @@
     "es": "Que hacen los bomberos?",
     "en": "What do firefighters do?",
     "most_recent": 1
+  },
+  {
+    "es": "vehiculos",
+    "en": "vehicles",
+    "most_recent": 1
+  },
+  {
+    "es": "avion",
+    "en": "airplane",
+    "most_recent": 1
+  },
+  {
+    "es": "auto, coche, carro",
+    "en": "car",
+    "most_recent": 1
+  },
+  {
+    "es": "autobus",
+    "en": "bus",
+    "most_recent": 1
+  },
+  {
+    "es": "camion",
+    "en": "truck",
+    "most_recent": 1
+  },
+  {
+    "es": "bicicleta",
+    "en": "bicycle",
+    "most_recent": 1
+  },
+  {
+    "es": "barco",
+    "en": "ship",
+    "most_recent": 1
+  },
+  {
+    "es": "cohete",
+    "en": "rocket",
+    "most_recent": 1
+  },
+  {
+    "es": "Como tu llegas a la escuela?",
+    "en": "How do you get to school?",
+    "most_recent": 1
+  },
+  {
+    "es": "Cual es tu vehiculo favorito?",
+    "en": "What is your favorite vehicle?",
+    "most_recent": 1
+  },
+  {
+    "es": "Donde vuela un avion?",
+    "en": "Where does a plane fly?",
+    "most_recent": 1
   }
 ]
