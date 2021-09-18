@@ -2,146 +2,221 @@
   {
     "es": "ventana",
     "en": "window",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "puerta",
     "en": "door",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "lavadero",
     "en": "sink",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "mesa",
     "en": "table",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "silla",
     "en": "chair",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "cubo",
     "en": "bucket",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "espejo",
     "en": "mirror",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "planta",
     "en": "plant",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "flores",
     "en": "flowers",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "libro",
     "en": "book",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "lapiz",
     "en": "pencil",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "bandeja",
     "en": "tray",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "estante",
     "en": "shelf",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "armario",
     "en": "closet",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "baño",
     "en": "bathroom",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "el clima",
     "en": "the weather",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "sol",
     "en": "sun",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "soleado",
     "en": "sunny",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "nube",
     "en": "cloud",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "nublado",
     "en": "cloudy",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "lluvia",
     "en": "rain",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "lloviendo",
     "en": "raining",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "nieve",
     "en": "snow",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "nevando",
     "en": "snowing",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "frio",
     "en": "cold",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "calor",
     "en": "hot",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "viento",
     "en": "wind",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "Hace viento.",
     "en": "It is windy.",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "trueno",
     "en": "thunder",
+    "most_recent": 0
+  },
+  {
+    "es": "animales de la ganja",
+    "en": "farm animals",
+    "most_recent": 1
+  },
+  {
+    "es": "burro",
+    "en": "donkey",
+    "most_recent": 1
+  },
+  {
+    "es": "la gallina, pollo",
+    "en": "chicken",
+    "most_recent": 1
+  },
+  {
+    "es": "gallo",
+    "en": "rooster",
+    "most_recent": 1
+  },
+  {
+    "es": "caballo",
+    "en": "horse",
+    "most_recent": 1
+  },
+  {
+    "es": "cabra",
+    "en": "goat",
+    "most_recent": 1
+  },
+  {
+    "es": "ganso",
+    "en": "goose",
+    "most_recent": 1
+  },
+  {
+    "es": "conejo",
+    "en": "rabbit",
+    "most_recent": 1
+  },
+  {
+    "es": "marrano",
+    "en": "pig",
+    "most_recent": 1
+  },
+  {
+    "es": "oveja",
+    "en": "sheep",
+    "most_recent": 1
+  },
+  {
+    "es": "pollito",
+    "en": "chick",
+    "most_recent": 1
+  },
+  {
+    "es": "pato",
+    "en": "duck",
+    "most_recent": 1
+  },
+  {
+    "es": "ternero",
+    "en": "calf",
+    "most_recent": 1
+  },
+  {
+    "es": "pavo",
+    "en": "turkey",
+    "most_recent": 1
+  },
+  {
+    "es": "vaca",
+    "en": "cow",
     "most_recent": 1
   }
 ]
