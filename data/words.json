@@ -135,8 +135,8 @@
     "most_recent": 0
   },
   {
-    "es": "Hace viento.",
-    "en": "It is windy.",
+    "es": "hace viento.",
+    "en": "it is windy.",
     "most_recent": 0
   },
   {
@@ -147,76 +147,166 @@
   {
     "es": "animales de la ganja",
     "en": "farm animals",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "burro",
     "en": "donkey",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "la gallina, pollo",
     "en": "chicken",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "gallo",
     "en": "rooster",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "caballo",
     "en": "horse",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "cabra",
     "en": "goat",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "ganso",
     "en": "goose",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "conejo",
     "en": "rabbit",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "marrano",
     "en": "pig",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "oveja",
     "en": "sheep",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "pollito",
     "en": "chick",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "pato",
     "en": "duck",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "ternero",
     "en": "calf",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "pavo",
     "en": "turkey",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "vaca",
     "en": "cow",
+    "most_recent": 0
+  },
+  {
+    "es": "comida",
+    "en": "food",
+    "most_recent": 1
+  },
+  {
+    "es": "Si, me gusta.",
+    "en": "Yes, I like it.",
+    "most_recent": 1
+  },
+  {
+    "es": "No, me gusta.",
+    "en": "I do not like it.",
+    "most_recent": 1
+  },
+  {
+    "es": "hamburguesa",
+    "en": "hamburguer",
+    "most_recent": 1
+  },
+  {
+    "es": "albondigas",
+    "en": "meatballs",
+    "most_recent": 1
+  },
+  {
+    "es": "costillas",
+    "en": "ribs",
+    "most_recent": 1
+  },
+  {
+    "es": "el arroz",
+    "en": "rice",
+    "most_recent": 1
+  },
+  {
+    "es": "ensalada",
+    "en": "salad",
+    "most_recent": 1
+  },
+  {
+    "es": "huevo frito",
+    "en": "fried egg",
+    "most_recent": 1
+  },
+  {
+    "es": "fideos",
+    "en": "noodles",
+    "most_recent": 1
+  },
+  {
+    "es": "palomitas",
+    "en": "pop corn",
+    "most_recent": 1
+  },
+  {
+    "es": "papas fritas",
+    "en": "french fries",
+    "most_recent": 1
+  },
+  {
+    "es": "pollo frito",
+    "en": "fried chicken",
+    "most_recent": 1
+  },
+  {
+    "es": "perrito caliente",
+    "en": "hot dog",
+    "most_recent": 1
+  },
+  {
+    "es": "pure de papa",
+    "en": "mashed potatoes",
+    "most_recent": 1
+  },
+  {
+    "es": "sopa",
+    "en": "soup",
+    "most_recent": 1
+  },
+  {
+    "es": "helado",
+    "en": "ice cream",
+    "most_recent": 1
+  },
+  {
+    "es": "gomitas",
+    "en": "gummies",
     "most_recent": 1
   }
 ]
