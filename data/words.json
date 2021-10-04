@@ -222,91 +222,166 @@
   {
     "es": "comida",
     "en": "food",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "Si, me gusta.",
     "en": "Yes, I like it.",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "No, me gusta.",
     "en": "I do not like it.",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "hamburguesa",
     "en": "hamburguer",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "albondigas",
     "en": "meatballs",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "costillas",
     "en": "ribs",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "el arroz",
     "en": "rice",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "ensalada",
     "en": "salad",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "huevo frito",
     "en": "fried egg",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "fideos",
     "en": "noodles",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "palomitas",
     "en": "pop corn",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "papas fritas",
     "en": "french fries",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "pollo frito",
     "en": "fried chicken",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "perrito caliente",
     "en": "hot dog",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "pure de papa",
     "en": "mashed potatoes",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "sopa",
     "en": "soup",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "helado",
     "en": "ice cream",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "gomitas",
     "en": "gummies",
+    "most_recent": 0
+  },
+  {
+    "es": "ropa",
+    "en": "clothes",
+    "most_recent": 1
+  },
+  {
+    "es": "abrigo",
+    "en": "coat",
+    "most_recent": 1
+  },
+  {
+    "es": "chaqueta",
+    "en": "jacket",
+    "most_recent": 1
+  },
+  {
+    "es": "camiseta",
+    "en": "t-shirt",
+    "most_recent": 1
+  },
+  {
+    "es": "camisa",
+    "en": "shirt",
+    "most_recent": 1
+  },
+  {
+    "es": "blusa",
+    "en": "blouse",
+    "most_recent": 1
+  },
+  {
+    "es": "pantalones",
+    "en": "pants",
+    "most_recent": 1
+  },
+  {
+    "es": "zapatos",
+    "en": "shoes",
+    "most_recent": 1
+  },
+  {
+    "es": "pantuflas",
+    "en": "slippers",
+    "most_recent": 1
+  },
+  {
+    "es": "calcetines",
+    "en": "socks",
+    "most_recent": 1
+  },
+  {
+    "es": "falda",
+    "en": "skirt",
+    "most_recent": 1
+  },
+  {
+    "es": "vestido",
+    "en": "dress",
+    "most_recent": 1
+  },
+  {
+    "es": "bufanda",
+    "en": "scarf",
+    "most_recent": 1
+  },
+  {
+    "es": "guantes",
+    "en": "gloves",
+    "most_recent": 1
+  },
+  {
+    "es": "cinturon",
+    "en": "belt",
     "most_recent": 1
   }
 ]
