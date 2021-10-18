@@ -383,5 +383,75 @@
     "es": "cinturon",
     "en": "belt",
     "most_recent": 1
+  },
+  {
+    "es": "me siento",
+    "en": "I feel",
+    "most_recent": 1
+  },
+  {
+    "es": "feliz",
+    "en": "happy",
+    "most_recent": 1
+  },
+  {
+    "es": "triste",
+    "en": "sad",
+    "most_recent": 1
+  },
+  {
+    "es": "cansado/a",
+    "en": "tired",
+    "most_recent": 1
+  },
+  {
+    "es": "enojado/a",
+    "en": "angry",
+    "most_recent": 1
+  },
+  {
+    "es": "furioso/a",
+    "en": "furious",
+    "most_recent": 1
+  },
+  {
+    "es": "enfermo/a",
+    "en": "sick",
+    "most_recent": 1
+  },
+  {
+    "es": "gracioso/a",
+    "en": "funny/silly",
+    "most_recent": 1
+  },
+  {
+    "es": "cinturon",
+    "en": "belt",
+    "most_recent": 1
+  },
+  {
+    "es": "confundido/a",
+    "en": "confused",
+    "most_recent": 1
+  },
+  {
+    "es": "asustado/a",
+    "en": "scared",
+    "most_recent": 1
+  },
+  {
+    "es": "Tengo hambre",
+    "en": "I am hungry",
+    "most_recent": 1
+  },
+  {
+    "es": "Tengo sed",
+    "en": "I am thirsty",
+    "most_recent": 1
+  },
+  {
+    "es": "calabaza",
+    "en": "pumpkin",
+    "most_recent": 1
   }
 ]
