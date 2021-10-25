@@ -312,146 +312,256 @@
   {
     "es": "ropa",
     "en": "clothes",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "abrigo",
     "en": "coat",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "chaqueta",
     "en": "jacket",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "camiseta",
     "en": "t-shirt",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "camisa",
     "en": "shirt",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "blusa",
     "en": "blouse",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "pantalones",
     "en": "pants",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "zapatos",
     "en": "shoes",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "pantuflas",
     "en": "slippers",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "calcetines",
     "en": "socks",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "falda",
     "en": "skirt",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "vestido",
     "en": "dress",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "bufanda",
     "en": "scarf",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "guantes",
     "en": "gloves",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "cinturon",
     "en": "belt",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "me siento",
     "en": "I feel",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "feliz",
     "en": "happy",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "triste",
     "en": "sad",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "cansado/a",
     "en": "tired",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "enojado/a",
     "en": "angry",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "furioso/a",
     "en": "furious",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "enfermo/a",
     "en": "sick",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "gracioso/a",
     "en": "funny/silly",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "cinturon",
     "en": "belt",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "confundido/a",
     "en": "confused",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "asustado/a",
     "en": "scared",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "Tengo hambre",
     "en": "I am hungry",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "Tengo sed",
     "en": "I am thirsty",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "calabaza",
     "en": "pumpkin",
+    "most_recent": 0
+  },
+  {
+    "es": "Las estaciones del año",
+    "en": "The seasons of the year",
+    "most_recent": 1
+  },
+  {
+    "es": "otoño",
+    "en": "fall",
+    "most_recent": 1
+  },
+  {
+    "es": "invierno",
+    "en": "winter",
+    "most_recent": 1
+  },
+  {
+    "es": "primavera",
+    "en": "spring",
+    "most_recent": 1
+  },
+  {
+    "es": "verano",
+    "en": "summer",
+    "most_recent": 1
+  },
+  {
+    "es": "pajaro",
+    "en": "bird",
+    "most_recent": 1
+  },
+  {
+    "es": "hojas de colores",
+    "en": "different colored leaves",
+    "most_recent": 1
+  },
+  {
+    "es": "paraguas",
+    "en": "umbrella",
+    "most_recent": 1
+  },
+  {
+    "es": "gafas de sol",
+    "en": "sunglasses",
+    "most_recent": 1
+  },
+  {
+    "es": "el cuerpo",
+    "en": "the body",
+    "most_recent": 1
+  },
+  {
+    "es": "cabeza",
+    "en": "head",
+    "most_recent": 1
+  },
+  {
+    "es": "cuello",
+    "en": "neck",
+    "most_recent": 1
+  },
+  {
+    "es": "hombro",
+    "en": "shoulder",
+    "most_recent": 1
+  },
+  {
+    "es": "manos",
+    "en": "hands",
+    "most_recent": 1
+  },
+  {
+    "es": "pecho",
+    "en": "chest",
+    "most_recent": 1
+  },
+  {
+    "es": "brazo",
+    "en": "arm",
+    "most_recent": 1
+  },
+  {
+    "es": "codo",
+    "en": "elbow",
+    "most_recent": 1
+  },
+  {
+    "es": "estomago",
+    "en": "stomach",
+    "most_recent": 1
+  },
+  {
+    "es": "cintura",
+    "en": "waist",
+    "most_recent": 1
+  },
+  {
+    "es": "pierna",
+    "en": "leg",
+    "most_recent": 1
+  },
+  {
+    "es": "rodilla",
+    "en": "knee",
+    "most_recent": 1
+  },
+  {
+    "es": "pies",
+    "en": "feet",
     "most_recent": 1
   }
 ]
