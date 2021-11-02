@@ -455,8 +455,8 @@
     "most_recent": 0
   },
   {
-    "es": "Las estaciones del año",
-    "en": "The seasons of the year",
+    "es": "las estaciones del año",
+    "en": "the seasons of the year",
     "most_recent": 1
   },
   {
@@ -562,6 +562,81 @@
   {
     "es": "pies",
     "en": "feet",
+    "most_recent": 1
+  },
+  {
+    "es": "las frutas",
+    "en": "fruits",
+    "most_recent": 1
+  },
+  {
+    "es": "el durazno",
+    "en" : "peach",
+    "most_recent": 1
+  },
+  {
+    "es": "la cereza",
+    "en": "cherry",
+    "most_recent": 1
+  },
+  {
+    "es": "la frambuesa",
+    "en": "rasberry",
+    "most_recent": 1
+  },
+  {
+    "es": "la ciruela",
+    "en": "plum",
+    "most_recent": 1
+  }, 
+  {
+    "es": "la fresa",
+    "en": "strawberry",
+    "most_recent": 1
+  }, 
+  {
+    "es": "el limon",
+    "en": "lemon",
+    "most_recent": 1
+  },
+  {
+    "es": "el melon",
+    "en": "melon",
+    "most_recent": 1
+  },
+  {
+    "es": "la mandarina",
+    "en": "mandarin",
+    "most_recent": 1
+  },
+  {
+    "es": "la naranja",
+    "en": "orange",
+    "most_recent": 1
+  }, 
+  {
+    "es": "la manzana",
+    "en": "apple",
+    "most_recent": 1
+  },
+  {
+    "es": "la pera",
+    "en": "pear",
+    "most_recent": 1
+  },
+  {
+    "es": "la piña",
+    "en": "pineapple",
+    "most_recent": 1
+  },
+  {
+    "es": "la sandia",
+    "en": "watermelon",
+    "most_recent": 1
+  },
+  {
+    "es": "uvas",
+    "en": "grapes",
     "most_recent": 1
   }
 ]
