@@ -457,186 +457,291 @@
   {
     "es": "las estaciones del año",
     "en": "the seasons of the year",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "otoño",
     "en": "fall",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "invierno",
     "en": "winter",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "primavera",
     "en": "spring",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "verano",
     "en": "summer",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "pajaro",
     "en": "bird",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "hojas de colores",
     "en": "different colored leaves",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "paraguas",
     "en": "umbrella",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "gafas de sol",
     "en": "sunglasses",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "el cuerpo",
     "en": "the body",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "cabeza",
     "en": "head",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "cuello",
     "en": "neck",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "hombro",
     "en": "shoulder",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "manos",
     "en": "hands",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "pecho",
     "en": "chest",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "brazo",
     "en": "arm",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "codo",
     "en": "elbow",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "estomago",
     "en": "stomach",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "cintura",
     "en": "waist",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "pierna",
     "en": "leg",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "rodilla",
     "en": "knee",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "pies",
     "en": "feet",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "las frutas",
     "en": "fruits",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "el durazno",
     "en" : "peach",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "la cereza",
     "en": "cherry",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "la frambuesa",
     "en": "rasberry",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "la ciruela",
     "en": "plum",
-    "most_recent": 1
+    "most_recent": 0
   }, 
   {
     "es": "la fresa",
     "en": "strawberry",
-    "most_recent": 1
+    "most_recent": 0
   }, 
   {
     "es": "el limon",
     "en": "lemon",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "el melon",
     "en": "melon",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "la mandarina",
     "en": "mandarin",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "la naranja",
     "en": "orange",
-    "most_recent": 1
+    "most_recent": 0
   }, 
   {
     "es": "la manzana",
     "en": "apple",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "la pera",
     "en": "pear",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "la piña",
     "en": "pineapple",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "la sandia",
     "en": "watermelon",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "uvas",
     "en": "grapes",
+    "most_recent": 0
+  },
+  {
+    "es": "los vegetales",
+    "en": "vegetables",
+    "most_recent": 1
+  },
+  {
+    "es": "el aguacate",
+    "en": "avocado",
+    "most_recent": 1
+  },
+  {
+    "es": "la berenjena",
+    "en": "eggplant",
+    "most_recent": 1
+  },
+  {
+    "es": "el ajo",
+    "en": "garlic",
+    "most_recent": 1
+  },
+  {
+    "es": "la alcachofa",
+    "en": "artichoke",
+    "most_recent": 1
+  },
+  {
+    "es": "la cebolla",
+    "en": "onion",
+    "most_recent": 1
+  },
+  {
+    "es": "el apio",
+    "en": "celery",
+    "most_recent": 1
+  },
+  {
+    "es": "el champinon",
+    "en": "mushroom",
+    "most_recent": 1
+  },
+  {
+    "es": "la coliflor",
+    "en": "coliflour",
+    "most_recent": 1
+  },
+  {
+    "es": "el maiz",
+    "en": "corn",
+    "most_recent": 1
+  },
+  {
+    "es": "los esparragos",
+    "en": "asparagus",
+    "most_recent": 1
+  },
+  {
+    "es": "la papa o patata",
+    "en": "potato",
+    "most_recent": 1
+  },
+  {
+    "es": "la espinaca",
+    "en": "spinach",
+    "most_recent": 1
+  },
+  {
+    "es": "el pepino",
+    "en": "cucumber",
+    "most_recent": 1
+  },
+  {
+    "es": "la lechuga",
+    "en": "lettuce",
+    "most_recent": 1
+  },
+  {
+    "es": "el pimenton",
+    "en": "paprika",
+    "most_recent": 1
+  },
+  {
+    "es": "el rabano",
+    "en": "radish",
+    "most_recent": 1
+  },
+  {
+    "es": "el tomate",
+    "en": "tomato",
+    "most_recent": 1
+  },
+  {
+    "es": "la zanahoria",
+    "en": "carrot",
+    "most_recent": 1
+  },
+  {
+    "es": "el canasto",
+    "en": "basket",
+    "most_recent": 1
+  },
+  {
+    "es": "el jardin",
+    "en": "garden",
     "most_recent": 1
   }
 ]
