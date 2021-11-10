@@ -18,4 +18,13 @@ p {
   &[lang=en] {
     color: $brick-red;
   }
+
+  a {
+    color: $white;
+
+    &:focus,
+    &:hover {
+      text-decoration: none;
+    }
+  }
 }
