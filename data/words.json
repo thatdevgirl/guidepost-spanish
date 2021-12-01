@@ -588,12 +588,12 @@
     "es": "la ciruela",
     "en": "plum",
     "most_recent": 0
-  }, 
+  },
   {
     "es": "la fresa",
     "en": "strawberry",
     "most_recent": 0
-  }, 
+  },
   {
     "es": "el limon",
     "en": "lemon",
@@ -613,7 +613,7 @@
     "es": "la naranja",
     "en": "orange",
     "most_recent": 0
-  }, 
+  },
   {
     "es": "la manzana",
     "en": "apple",
@@ -642,186 +642,291 @@
   {
     "es": "los vegetales",
     "en": "vegetables",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "el aguacate",
     "en": "avocado",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "la berenjena",
     "en": "eggplant",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "el ajo",
     "en": "garlic",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "la alcachofa",
     "en": "artichoke",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "la cebolla",
     "en": "onion",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "el apio",
     "en": "celery",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "el champinon",
     "en": "mushroom",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "la coliflor",
     "en": "coliflour",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "el maiz",
     "en": "corn",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "los esparragos",
     "en": "asparagus",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "la papa o patata",
     "en": "potato",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "la espinaca",
     "en": "spinach",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "el pepino",
     "en": "cucumber",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "la lechuga",
     "en": "lettuce",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "el pimenton",
     "en": "paprika",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "el rabano",
     "en": "radish",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "el tomate",
     "en": "tomato",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "la zanahoria",
     "en": "carrot",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "el canasto",
     "en": "basket",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "el jardin",
     "en": "garden",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "dia de accion de gracias",
     "en": "Thanksgiving Day",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "la bellota",
     "en": "acorn",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "el espantapajaros",
     "en": "scarecrow",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "la calabaza",
     "en": "pumpkin",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "las flores",
     "en": "glowers",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "el girasol",
     "en": "sunflower",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "la cena",
     "en": "dinner",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "la cosecha",
     "en": "harvest",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "la hoja",
     "en": "leaf",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "la mazorca",
     "en": "corncob",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "la salsa o jugo de carne",
     "en": "gravy",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "otono",
     "en": "fall",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "el sombrero",
     "en": "hat",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "el pavo",
     "en": "turkey",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "la tarta de manzana",
     "en": "apple pie",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "el trigo",
     "en": "wheat",
+    "most_recent": 0
+  },
+  {
+    "es": "Feliz Navidad",
+    "en": "Merry Christmas",
+    "most_recent": 1
+  },
+  {
+    "es": "el adorno",
+    "en": "ornament ",
+    "most_recent": 1
+  },
+  {
+    "es": "la campana",
+    "en": "bell",
+    "most_recent": 1
+  },
+  {
+    "es": "el angel",
+    "en": "angel",
+    "most_recent": 1
+  },
+  {
+    "es": "la estrella",
+    "en": "star",
+    "most_recent": 1
+  },
+  {
+    "es": "el copo de nieve",
+    "en": "snowball",
+    "most_recent": 1
+  },
+  {
+    "es": "la cinta",
+    "en": "ribbon",
+    "most_recent": 1
+  },
+  {
+    "es": "el arbol de Navidad",
+    "en": "Christmas tree",
+    "most_recent": 1
+  },
+  {
+    "es": "el duende",
+    "en": "elf",
+    "most_recent": 1
+  },
+  {
+    "es": "el muneco de nueve",
+    "en": "snowman",
+    "most_recent": 1
+  },
+  {
+    "es": "las luces de navidad",
+    "en": "Christmas lights",
+    "most_recent": 1
+  },
+  {
+    "es": "las galletas",
+    "en": "cookies",
+    "most_recent": 1
+  },
+  {
+    "es": "la nieve",
+    "en": "snow",
+    "most_recent": 1
+  },
+  {
+    "es": "Papa Noel",
+    "en": "Santa Claus",
+    "most_recent": 1
+  },
+  {
+    "es": "la guirnalda",
+    "en": "wreath",
+    "most_recent": 1
+  },
+  {
+    "es": "el papel regalo",
+    "en": "wrapping paper",
+    "most_recent": 1
+  },
+  {
+    "es": "el trineo",
+    "en": "sled",
+    "most_recent": 1
+  },
+  {
+    "es": "el regalo",
+    "en": "present/gift",
+    "most_recent": 1
+  },
+  {
+    "es": "la vela",
+    "en": "candle",
+    "most_recent": 1
+  },
+  {
+    "es": "el ciervo",
+    "en": "deer",
+    "most_recent": 1
+  },
+  {
+    "es": "la tarjeta de Navidad",
+    "en": "Christmas card",
     "most_recent": 1
   }
 ]
