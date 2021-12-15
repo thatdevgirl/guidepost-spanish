@@ -1033,5 +1033,85 @@
     "es": "el libro",
     "en": "book",
     "most_recent": 1
+  },
+  {
+    "es": "el transporte",
+    "en": "transportation",
+    "most_recent": 1
+  },
+  {
+    "es": "la ambulancia",
+    "en": "ambulance",
+    "most_recent": 1
+  },
+  {
+    "es": "el autobus",
+    "en": "bus",
+    "most_recent": 1
+  },
+  {
+    "es": "el autobus escolar",
+    "en": "school bus",
+    "most_recent": 1
+  },
+  {
+    "es": "el camion",
+    "en": "truck",
+    "most_recent": 1
+  },
+  {
+    "es": "el avion",
+    "en": "plane",
+    "most_recent": 1
+  },
+  {
+    "es": "el camion de bomberos",
+    "en": "fire truck",
+    "most_recent": 1
+  },
+  {
+    "es": "el barco",
+    "en": "boat",
+    "most_recent": 1
+  },
+  {
+    "es": "el carro",
+    "en": "car",
+    "most_recent": 1
+  },
+  {
+    "es": "el carro de policia",
+    "en": "police car",
+    "most_recent": 1
+  },
+  {
+    "es": "la bicicleta",
+    "en": "bicycle",
+    "most_recent": 1
+  },
+  {
+    "es": "la motocicleta",
+    "en": "motorcycle",
+    "most_recent": 1
+  },
+  {
+    "es": "el helicoptero",
+    "en": "helicopter",
+    "most_recent": 1
+  },
+  {
+    "es": "el tren",
+    "en": "train",
+    "most_recent": 1
+  },
+  {
+    "es": "la limosina",
+    "en": "limosine",
+    "most_recent": 1
+  },
+  {
+    "es": "el yate",
+    "en": "yacht",
+    "most_recent": 1
   }
 ]
