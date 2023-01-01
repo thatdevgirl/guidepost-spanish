@@ -827,91 +827,601 @@
   {
     "es": "Feliz Navidad",
     "en": "Merry Christmas",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "el adorno",
-    "en": "ornament ",
-    "most_recent": 1
+    "en": "ornament",
+    "most_recent": 0
   },
   {
     "es": "la campana",
     "en": "bell",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "el angel",
     "en": "angel",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "la estrella",
     "en": "star",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "el copo de nieve",
     "en": "snowball",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "la cinta",
     "en": "ribbon",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "el arbol de Navidad",
     "en": "Christmas tree",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "el duende",
     "en": "elf",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "el muneco de nueve",
     "en": "snowman",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "las luces de navidad",
     "en": "Christmas lights",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "las galletas",
     "en": "cookies",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "la nieve",
     "en": "snow",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "Papa Noel",
     "en": "Santa Claus",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "la guirnalda",
     "en": "wreath",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "el papel regalo",
     "en": "wrapping paper",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "el trineo",
     "en": "sled",
-    "most_recent": 1
+    "most_recent": 0
   },
   {
     "es": "el regalo",
     "en": "present/gift",
+    "most_recent": 0
+  },
+  {
+    "es": "la vela",
+    "en": "candle",
+    "most_recent": 0
+  },
+  {
+    "es": "el ciervo",
+    "en": "deer",
+    "most_recent": 0
+  },
+  {
+    "es": "la tarjeta de Navidad",
+    "en": "Christmas card",
+    "most_recent": 0
+  },
+  {
+    "es": "utiles escolares",
+    "en": "school materials",
+    "most_recent": 0
+  },
+  {
+    "es": "el boligrafo",
+    "en": "pen",
+    "most_recent": 0
+  },
+  {
+    "es": "los lapices de colores",
+    "en": "colored pencils",
+    "most_recent": 0
+  },
+  {
+    "es": "el borrador",
+    "en": "eraser",
+    "most_recent": 0
+  },
+  {
+    "es": "el compas",
+    "en": "compas",
+    "most_recent": 0
+  },
+  {
+    "es": "la calculadora",
+    "en": "calculator",
+    "most_recent": 0
+  },
+  {
+    "es": "la crayola",
+    "en": "crayon",
+    "most_recent": 0
+  },
+  {
+    "es": "la cinta",
+    "en": "tape",
+    "most_recent": 0
+  },
+  {
+    "es": "el cuaderno",
+    "en": "notebook",
+    "most_recent": 0
+  },
+  {
+    "es": "la grapadora",
+    "en": "stapler",
+    "most_recent": 0
+  },
+  {
+    "es": "el pincel",
+    "en": "paintbrush",
+    "most_recent": 0
+  },
+  {
+    "es": "el lapiz",
+    "en": "pencil",
+    "most_recent": 0
+  },
+  {
+    "es": "la regla",
+    "en": "ruler",
+    "most_recent": 0
+  },
+  {
+    "es": "el marcador",
+    "en": "marker",
+    "most_recent": 0
+  },
+  {
+    "es": "el sacapuntas",
+    "en": "sharpener",
+    "most_recent": 0
+  },
+  {
+    "es": "el pegamento",
+    "en": "glue",
+    "most_recent": 0
+  },
+  {
+    "es": "las tijeras",
+    "en": "scissors",
+    "most_recent": 0
+  },
+  {
+    "es": "la tiza",
+    "en": "chalk",
+    "most_recent": 0
+  },
+  {
+    "es": "la mochila",
+    "en": "backpack",
+    "most_recent": 0
+  },
+  {
+    "es": "la hoja de papel",
+    "en": "sheet of paper",
+    "most_recent": 0
+  },
+  {
+    "es": "el libro",
+    "en": "book",
+    "most_recent": 0
+  },
+  {
+    "es": "el transporte",
+    "en": "transportation",
+    "most_recent": 0
+  },
+  {
+    "es": "la ambulancia",
+    "en": "ambulance",
+    "most_recent": 0
+  },
+  {
+    "es": "el autobus",
+    "en": "bus",
+    "most_recent": 0
+  },
+  {
+    "es": "el autobus escolar",
+    "en": "school bus",
+    "most_recent": 0
+  },
+  {
+    "es": "el camion",
+    "en": "truck",
+    "most_recent": 0
+  },
+  {
+    "es": "el avion",
+    "en": "plane",
+    "most_recent": 0
+  },
+  {
+    "es": "el camion de bomberos",
+    "en": "fire truck",
+    "most_recent": 0
+  },
+  {
+    "es": "el barco",
+    "en": "boat",
+    "most_recent": 0
+  },
+  {
+    "es": "el carro",
+    "en": "car",
+    "most_recent": 0
+  },
+  {
+    "es": "el carro de policia",
+    "en": "police car",
+    "most_recent": 0
+  },
+  {
+    "es": "la bicicleta",
+    "en": "bicycle",
+    "most_recent": 0
+  },
+  {
+    "es": "la motocicleta",
+    "en": "motorcycle",
+    "most_recent": 0
+  },
+  {
+    "es": "el helicoptero",
+    "en": "helicopter",
+    "most_recent": 0
+  },
+  {
+    "es": "el tren",
+    "en": "train",
+    "most_recent": 0
+  },
+  {
+    "es": "la limosina",
+    "en": "limosine",
+    "most_recent": 0
+  },
+  {
+    "es": "el yate",
+    "en": "yacht",
+    "most_recent": 0
+  },
+  {
+    "es": "cuna",
+    "en": "crib",
+    "most_recent": 1
+  },
+  {
+    "es": "caja de regalo",
+    "en": "gift box",
+    "most_recent": 1
+  },
+  {
+    "es": "lápiz de color",
+    "en": "colored pencil",
+    "most_recent": 1
+  },
+  {
+    "es": "baloncesto",
+    "en": "basketball",
+    "most_recent": 1
+  },
+  {
+    "es": "tambor",
+    "en": "drum",
+    "most_recent": 1
+  },
+  {
+    "es": "el reloj",
+    "en": "clock",
+    "most_recent": 1
+  },
+  {
+    "es": "cangrejo",
+    "en": "crab",
+    "most_recent": 1
+  },
+  {
+    "es": "miel de abeja",
+    "en": "honey bee",
+    "most_recent": 1
+  },
+  {
+    "es": "mono",
+    "en": "monkey",
+    "most_recent": 1
+  },
+  {
+    "es": "rana",
+    "en": "frog",
+    "most_recent": 1
+  },
+  {
+    "es": "la pelota",
+    "en": "ball",
+    "most_recent": 1
+  },
+  {
+    "es": "el rompecabeza",
+    "en": "puzzle",
+    "most_recent": 1
+  },
+  {
+    "es": "la muñeca",
+    "en": "doll",
+    "most_recent": 1
+  },
+  {
+    "es": "peluche",
+    "en": "stuffed animal",
+    "most_recent": 1
+  },
+  {
+    "es": "oso de peluche",
+    "en": "teddy bear",
+    "most_recent": 1
+  },
+  {
+    "es": "el pato de goma",
+    "en": "rubber duck",
+    "most_recent": 1
+  },
+  {
+    "es": "el juguete",
+    "en": "toy",
+    "most_recent": 1
+  },
+  {
+    "es": "coche de juguete",
+    "en": "toy car",
+    "most_recent": 1
+  },
+  {
+    "es": "¿Qué actividades te gusta hacer?",
+    "en": "What activities do you like to do?",
+    "most_recent": 1
+  },
+  {
+    "es": "¿Cual es tu deporte favorito?",
+    "en": "What is your favorite sport?",
+    "most_recent": 1
+  },
+  {
+    "es": "la vibora",
+    "en": "snake",
+    "most_recent": 1
+  },
+  {
+    "es": "el tigre",
+    "en": "tiger",
+    "most_recent": 1
+  },
+  {
+    "es": "el cocodrilo",
+    "en": "crocodile",
+    "most_recent": 1
+  },
+  {
+    "es": "el oso",
+    "en": "bear",
+    "most_recent": 1
+  },
+  {
+    "es": "el leon",
+    "en": "lion",
+    "most_recent": 1
+  },
+  {
+    "es": "el elefante",
+    "en": "elephant",
+    "most_recent": 1
+  },
+  {
+    "es": "la jirafa",
+    "en": "giraffe",
+    "most_recent": 1
+  },
+  {
+    "es": "A guardar por favor",
+    "en": "Put away please",
+    "most_recent": 1
+  },
+  {
+    "es": "A limpiar por favor",
+    "en": "Clean up please",
+    "most_recent": 1
+  },
+  {
+    "es": "Ayuda por favor",
+    "en": "Help please",
+    "most_recent": 1
+  },
+  {
+    "es": "Sientate por favor",
+    "en": "Sit down please",
+    "most_recent": 1
+  },
+  {
+    "es": "cuerpo",
+    "en": "body",
+    "most_recent": 1
+  },
+  {
+    "es": "rodillas",
+    "en": "knees",
+    "most_recent": 1
+  },
+  {
+    "es": "hombros",
+    "en": "shoulders",
+    "most_recent": 1
+  },
+  {
+    "es": "mover",
+    "en": "to move",
+    "most_recent": 1
+  },
+  {
+    "es": "mio",
+    "en": "mine",
+    "most_recent": 1
+  },
+  {
+    "es": "bandera",
+    "en": "flag",
+    "most_recent": 1
+  },
+  {
+    "es": "paises",
+    "en": "countries",
+    "most_recent": 1
+  },
+  {
+    "es": "bailarin",
+    "en": "dancer",
+    "most_recent": 1
+  },
+  {
+    "es": "hojas",
+    "en": "leaves (n)",
+    "most_recent": 1
+  },
+  {
+    "es": "ardilla",
+    "en": "squirrel",
+    "most_recent": 1
+  },
+  {
+    "es": "bellota",
+    "en": "acorn",
+    "most_recent": 1
+  },
+  {
+    "es": "pino",
+    "en": "pine cone",
+    "most_recent": 1
+  },
+  {
+    "es": "otono",
+    "en": "fall (season)",
+    "most_recent": 1
+  },
+  {
+    "es": "día de gracias",
+    "en": "Thanksgiving day",
+    "most_recent": 1
+  },
+  {
+    "es": "familia",
+    "en": "family",
+    "most_recent": 1
+  },
+  {
+    "es": "casa",
+    "en": "house",
+    "most_recent": 1
+  },
+  {
+    "es": "grande",
+    "en": "large",
+    "most_recent": 1
+  },
+  {
+    "es": "pequeno",
+    "en": "small",
+    "most_recent": 1
+  },
+  {
+    "es": "diferente",
+    "en": "different",
+    "most_recent": 1
+  },
+  {
+    "es": "cantidad",
+    "en": "amount",
+    "most_recent": 1
+  },
+  {
+    "es": "mascota",
+    "en": "pet",
+    "most_recent": 1
+  },
+  {
+    "es": "Cuantas personas hay en tu familia?",
+    "en": "How many people are in your family?",
+    "most_recent": 1
+  },
+  {
+    "es": "Quien vive en tu casa?",
+    "en": "Who lives in your house?",
+    "most_recent": 1
+  },
+  {
+    "es": "celebración",
+    "en": "celebration",
+    "most_recent": 1
+  },
+  {
+    "es": "juntos",
+    "en": "together",
+    "most_recent": 1
+  },
+  {
+    "es": "tiburon",
+    "en": "shark",
+    "most_recent": 1
+  },
+  {
+    "es": "destornillador",
+    "en": "screwdriver",
+    "most_recent": 1
+  },
+  {
+    "es": "sueño",
+    "en": "sleep",
+    "most_recent": 1
+  },
+  {
+    "es": "piñas",
+    "en": "pineapple",
+    "most_recent": 1
+  },
+  {
+    "es": "la sopa",
+    "en": "soup",
+    "most_recent": 1
+  },
+  {
+    "es": "la dona",
+    "en": "donut",
     "most_recent": 1
   },
   {
@@ -920,198 +1430,238 @@
     "most_recent": 1
   },
   {
-    "es": "el ciervo",
-    "en": "deer",
+    "es": "melocotón",
+    "en": "peach",
     "most_recent": 1
   },
   {
-    "es": "la tarjeta de Navidad",
-    "en": "Christmas card",
+    "es": "arándanos azules",
+    "en": "blueberries",
     "most_recent": 1
   },
   {
-    "es": "utiles escolares",
-    "en": "school materials",
+    "es": "coco",
+    "en": "coconut",
     "most_recent": 1
   },
   {
-    "es": "el boligrafo",
-    "en": "pen",
+    "es": "frambuesa",
+    "en": "raspberry",
     "most_recent": 1
   },
   {
-    "es": "los lapices de colores",
-    "en": "colored pencils",
+    "es": "higo",
+    "en": "fig",
     "most_recent": 1
   },
   {
-    "es": "el borrador",
-    "en": "eraser",
+    "es": "guitara",
+    "en": "guitar",
     "most_recent": 1
   },
   {
-    "es": "el compas",
-    "en": "compas",
+    "es": "vacaciones",
+    "en": "vacation",
     "most_recent": 1
   },
   {
-    "es": "la calculadora",
-    "en": "calculator",
+    "es": "la playa",
+    "en": "beach",
     "most_recent": 1
   },
   {
-    "es": "la crayola",
-    "en": "crayon",
+    "es": "el traje de bano",
+    "en": "swimsuit",
     "most_recent": 1
   },
   {
-    "es": "la cinta",
-    "en": "tape",
+    "es": "piscina",
+    "en": "pool",
     "most_recent": 1
   },
   {
-    "es": "el cuaderno",
-    "en": "notebook",
+    "es": "helado",
+    "en": "ice cream",
     "most_recent": 1
   },
   {
-    "es": "la grapadora",
-    "en": "stapler",
+    "es": "toalla",
+    "en": "towel",
     "most_recent": 1
   },
   {
-    "es": "el pincel",
-    "en": "paintbrush",
+    "es": "desayuno",
+    "en": "breakfast",
     "most_recent": 1
   },
   {
-    "es": "el lapiz",
-    "en": "pencil",
+    "es": "mariposa",
+    "en": "butterfly",
     "most_recent": 1
   },
   {
-    "es": "la regla",
-    "en": "ruler",
+    "es": "Pascua",
+    "en": "Easter",
     "most_recent": 1
   },
   {
-    "es": "el marcador",
-    "en": "marker",
+    "es": "pollito",
+    "en": "(baby) chick",
     "most_recent": 1
   },
   {
-    "es": "el sacapuntas",
-    "en": "sharpener",
+    "es": "vestir",
+    "en": "to get dressed",
     "most_recent": 1
   },
   {
-    "es": "el pegamento",
-    "en": "glue",
+    "es": "conducir",
+    "en": "to drive",
     "most_recent": 1
   },
   {
-    "es": "las tijeras",
-    "en": "scissors",
+    "es": "la banera",
+    "en": "bathtub",
     "most_recent": 1
   },
   {
-    "es": "la tiza",
-    "en": "chalk",
+    "es": "el inodoro",
+    "en": "toilet seat",
     "most_recent": 1
   },
   {
-    "es": "la mochila",
-    "en": "backpack",
+    "es": "el espejo",
+    "en": "mirror",
     "most_recent": 1
   },
   {
-    "es": "la hoja de papel",
-    "en": "sheet of paper",
+    "es": "el lavabo",
+    "en": "sink",
     "most_recent": 1
   },
   {
-    "es": "el libro",
-    "en": "book",
+    "es": "el jabon",
+    "en": "soap",
     "most_recent": 1
   },
   {
-    "es": "el transporte",
-    "en": "transportation",
+    "es": "papel higienico",
+    "en": "toilet paper",
     "most_recent": 1
   },
   {
-    "es": "la ambulancia",
-    "en": "ambulance",
+    "es": "duchar",
+    "en": "to shower",
     "most_recent": 1
   },
   {
-    "es": "el autobus",
-    "en": "bus",
+    "es": "peinar",
+    "en": "to brush",
     "most_recent": 1
   },
   {
-    "es": "el autobus escolar",
-    "en": "school bus",
+    "es": "cuchillo",
+    "en": "knife",
     "most_recent": 1
   },
   {
-    "es": "el camion",
-    "en": "truck",
+    "es": "cuchara",
+    "en": "spoon",
     "most_recent": 1
   },
   {
-    "es": "el avion",
-    "en": "plane",
+    "es": "tenedor",
+    "en": "fork",
     "most_recent": 1
   },
   {
-    "es": "el camion de bomberos",
-    "en": "fire truck",
+    "es": "vaso",
+    "en": "cup/glass",
     "most_recent": 1
   },
   {
-    "es": "el barco",
-    "en": "boat",
+    "es": "olla",
+    "en": "pot",
     "most_recent": 1
   },
   {
-    "es": "el carro",
-    "en": "car",
+    "es": "espatula",
+    "en": "spatula",
     "most_recent": 1
   },
   {
-    "es": "el carro de policia",
-    "en": "police car",
+    "es": "plato",
+    "en": "plate",
     "most_recent": 1
   },
   {
-    "es": "la bicicleta",
-    "en": "bicycle",
+    "es": "taza",
+    "en": "mug/cup",
     "most_recent": 1
   },
   {
-    "es": "la motocicleta",
-    "en": "motorcycle",
+    "es": "frigorifico",
+    "en": "fridge",
     "most_recent": 1
   },
   {
-    "es": "el helicoptero",
-    "en": "helicopter",
+    "es": "sarten",
+    "en": "pan",
     "most_recent": 1
   },
   {
-    "es": "el tren",
-    "en": "train",
+    "es": "cocinar",
+    "en": "to cook",
     "most_recent": 1
   },
   {
-    "es": "la limosina",
-    "en": "limosine",
+    "es": "Quien es tu mejor amigo/a?",
+    "en": "Who is your best friend?",
     "most_recent": 1
   },
   {
-    "es": "el yate",
-    "en": "yacht",
+    "es": "Mi mejor amigo es ...",
+    "en": "My best friend is ...",
+    "most_recent": 1
+  },
+  {
+    "es": "cantar",
+    "en": "to sing",
+    "most_recent": 1
+  },
+  {
+    "es": "saltar",
+    "en": "to jump",
+    "most_recent": 1
+  },
+  {
+    "es": "mirar",
+    "en": "to look",
+    "most_recent": 1
+  },
+  {
+    "es": "corazon",
+    "en": "heart",
+    "most_recent": 1
+  },
+  {
+    "es": "amistad",
+    "en": "friendship",
+    "most_recent": 1
+  },
+  {
+    "es": "amor",
+    "en": "love",
+    "most_recent": 1
+  },
+  {
+    "es": "correr",
+    "en": "to run",
+    "most_recent": 1
+  },
+  {
+    "es": "mariquita",
+    "en": "ladybug",
     "most_recent": 1
   }
 ]
